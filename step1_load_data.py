@@ -231,7 +231,7 @@ def load_all_data():
 
 
 def process_campaigns(campaigns):
-   
+
 
     # parse dates
     for col in ["start_date", "end_date", "campaign_creation", "zone_created_date"]:
@@ -248,6 +248,13 @@ def process_campaigns(campaigns):
 
     # normalize goal_type to lowercase
     campaigns["goal_type"] = campaigns["goal_type"].str.lower()
+
+    # exclude conversion goal type — not in scope per implementation doc
+    before = campaigns["campaign_id"].nunique()
+    campaigns = campaigns[campaigns["goal_type"] != "conversion"].copy()
+    dropped = before - campaigns["campaign_id"].nunique()
+    if dropped > 0:
+        print(f"  Dropped {dropped} conversion campaigns")
 
     # extract zone_category from zone_name via regex
     campaigns["zone_category"] = (
@@ -268,13 +275,12 @@ def process_campaigns(campaigns):
     if dropped > 0:
         print(f"  Dropped {dropped} campaigns with end_date before 2024")
 
-    # cap "forever" campaigns (end_date beyond 2027) at today
-    today = pd.Timestamp.now().normalize()
-    forever_mask = campaigns["end_date"] > pd.Timestamp("2027-01-01")
-    n_forever = campaigns.loc[forever_mask, "campaign_id"].nunique()
-    campaigns.loc[forever_mask, "end_date"] = today
-    if n_forever > 0:
-        print(f"  Capped {n_forever} 'forever' campaigns (end_date > 2027) to today")
+    # exclude "forever" campaigns (end_date beyond 2027) — house ads, placeholders, no real target
+    before = campaigns["campaign_id"].nunique()
+    campaigns = campaigns[campaigns["end_date"] <= pd.Timestamp("2027-01-01")].copy()
+    dropped = before - campaigns["campaign_id"].nunique()
+    if dropped > 0:
+        print(f"  Dropped {dropped} 'forever' campaigns (end_date > 2027)")
 
     # campaign_duration_days = end_date - start_date (minimum 1)
     campaigns["campaign_duration_days"] = (
@@ -309,7 +315,7 @@ def process_zone_daily(zone_daily):
         (zone_daily["event_date"] >= "2025-01-01") &
         (zone_daily["event_date"] <= "2026-12-31")
     ].copy()
-  
+
 
     zone_daily = zone_daily.sort_values(["zone_name", "event_date"])
 
@@ -329,7 +335,7 @@ def process_campaign_delivery(campaign_delivery):
         (campaign_delivery["event_date"] >= "2025-01-01") &
         (campaign_delivery["event_date"] <= "2026-12-31")
     ].copy()
- 
+
     if "campaign_revenue_type" in campaign_delivery.columns:
         campaign_delivery["campaign_revenue_type"] = (
             campaign_delivery["campaign_revenue_type"].str.lower()
@@ -394,7 +400,7 @@ def compute_fleet_metrics(fleet_daily):
         "total_days": len(fleet_daily),
     }
 
-    
+
 
     return fleet_metrics, fleet_daily
 
@@ -441,7 +447,7 @@ def label_completed_campaigns(completed, campaigns):
         labeled["total_served_impressions"] / labeled["planned_impression"] * 100
     ).round(2)
 
-   
+
 
     return labeled
 
@@ -471,7 +477,7 @@ if __name__ == "__main__":
 
     # load raw data from Athena
     raw_campaigns, raw_zone_daily, raw_delivery, raw_fleet, raw_completed = load_all_data()
-    
+
 
 
     # parse dates, fill defaults, compute derived columns
@@ -480,7 +486,7 @@ if __name__ == "__main__":
 
     # parse dates on zone daily history
     zone_daily = process_zone_daily(raw_zone_daily)
-    
+
 
     # parse dates on campaign delivery
     campaign_delivery = process_campaign_delivery(raw_delivery)
@@ -495,4 +501,3 @@ if __name__ == "__main__":
 
     save_all_csvs(campaigns, zone_daily, campaign_delivery, fleet_daily,
                   fleet_metrics, completed_labeled)
-  
