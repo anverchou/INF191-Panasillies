@@ -93,6 +93,7 @@ QUERY_ZONE_DAILY = """
 SELECT
     zone_id,
     zone_name,
+    icao_airline,
     CONCAT(
         SUBSTRING(event_timestamp, 1, 4), '-',
         SUBSTRING(event_timestamp, 5, 2), '-',
@@ -105,10 +106,12 @@ FROM dl_pac_ife_om3_curated_v1_prod.onemedia_v1
 
 WHERE dt BETWEEN '20250101' AND '20260405'
     AND advertiser_is_test = 0
+    AND icao_airline = 'UAL'
 
 GROUP BY
     zone_id,
     zone_name,
+    icao_airline,
     CONCAT(
         SUBSTRING(event_timestamp, 1, 4), '-',
         SUBSTRING(event_timestamp, 5, 2), '-',
@@ -143,6 +146,7 @@ FROM dl_pac_ife_om3_curated_v1_prod.onemedia_v1
 
 WHERE dt BETWEEN '20250101' AND '20260405'
     AND advertiser_is_test = 0
+    AND icao_airline = 'UAL'
 
 GROUP BY
     campaign_id,
@@ -162,6 +166,7 @@ GROUP BY
 
 QUERY_FLEET_DAILY = """
 SELECT
+    icao_airline,
     CONCAT(
         SUBSTRING(event_timestamp, 1, 4), '-',
         SUBSTRING(event_timestamp, 5, 2), '-',
@@ -181,8 +186,10 @@ FROM dl_pac_ife_om3_curated_v1_prod.onemedia_v1
 
 WHERE dt BETWEEN '20250101' AND '20260405'
     AND advertiser_is_test = 0
+    AND icao_airline = 'UAL'
 
 GROUP BY
+    icao_airline,
     CONCAT(
         SUBSTRING(event_timestamp, 1, 4), '-',
         SUBSTRING(event_timestamp, 5, 2), '-',
@@ -196,6 +203,7 @@ SELECT
     campaign_name,
     campaign_revenue_type,
     campaign_goal_type,
+    icao_airline,
     COUNT(DISTINCT zone_id) AS zones_per_campaign,
     COUNT(CASE WHEN event_type = 'i' THEN 1 END) AS total_served_impressions
 
@@ -203,12 +211,14 @@ FROM dl_pac_ife_om3_curated_v1_prod.onemedia_v1
 
 WHERE dt BETWEEN '20250101' AND '20260405'
     AND advertiser_is_test = 0
+    AND icao_airline = 'UAL'
 
 GROUP BY
     campaign_id,
     campaign_name,
     campaign_revenue_type,
-    campaign_goal_type
+    campaign_goal_type,
+    icao_airline
 """
 
 
