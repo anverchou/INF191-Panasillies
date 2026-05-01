@@ -1,10 +1,13 @@
 import os
 import pandas as pd
 import numpy as np
+from datetime import datetime
 from pyathena import connect
 
 AWS_REGION = "us-west-2"
 ATHENA_S3_OUTPUT = "s3://aws-athena-query-results-296959725007-us-west-2/"
+
+TODAY_DT = datetime.now().strftime("%Y%m%d")
 
 conn = connect(
     s3_staging_dir=ATHENA_S3_OUTPUT,
@@ -104,7 +107,7 @@ SELECT
 
 FROM dl_pac_ife_om3_curated_v1_prod.onemedia_v1
 
-WHERE dt BETWEEN '20250101' AND '20260405'
+WHERE dt BETWEEN '20250101' AND '{today}'
     AND advertiser_is_test = 0
     AND icao_airline = 'UAL'
 
@@ -144,7 +147,7 @@ SELECT
 
 FROM dl_pac_ife_om3_curated_v1_prod.onemedia_v1
 
-WHERE dt BETWEEN '20250101' AND '20260405'
+WHERE dt BETWEEN '20250101' AND '{today}'
     AND advertiser_is_test = 0
     AND icao_airline = 'UAL'
 
@@ -184,7 +187,7 @@ SELECT
 
 FROM dl_pac_ife_om3_curated_v1_prod.onemedia_v1
 
-WHERE dt BETWEEN '20250101' AND '20260405'
+WHERE dt BETWEEN '20250101' AND '{today}'
     AND advertiser_is_test = 0
     AND icao_airline = 'UAL'
 
@@ -209,7 +212,7 @@ SELECT
 
 FROM dl_pac_ife_om3_curated_v1_prod.onemedia_v1
 
-WHERE dt BETWEEN '20250101' AND '20260405'
+WHERE dt BETWEEN '20250101' AND '{today}'
     AND advertiser_is_test = 0
     AND icao_airline = 'UAL'
 
@@ -227,13 +230,13 @@ GROUP BY
 def load_all_data():
     campaigns = pd.read_sql(QUERY_CAMPAIGNS, conn)
 
-    zone_daily = pd.read_sql(QUERY_ZONE_DAILY, conn)
+    zone_daily = pd.read_sql(QUERY_ZONE_DAILY.format(today=TODAY_DT), conn)
 
-    campaign_delivery = pd.read_sql(QUERY_CAMPAIGN_DELIVERY, conn)
+    campaign_delivery = pd.read_sql(QUERY_CAMPAIGN_DELIVERY.format(today=TODAY_DT), conn)
 
-    fleet_daily = pd.read_sql(QUERY_FLEET_DAILY, conn)
+    fleet_daily = pd.read_sql(QUERY_FLEET_DAILY.format(today=TODAY_DT), conn)
 
-    completed = pd.read_sql(QUERY_COMPLETED_CAMPAIGNS, conn)
+    completed = pd.read_sql(QUERY_COMPLETED_CAMPAIGNS.format(today=TODAY_DT), conn)
 
     return campaigns, zone_daily, campaign_delivery, fleet_daily, completed
 
