@@ -1,0 +1,1930 @@
+zone_name,total_allocated,capacity,utilization_pct,zpr
+b_featured_a242,338.84,338.84,100.0,0.0097
+b_tv_spanish1,6771.36,6771.36,100.0,0.0026
+b_movies_sports2,740.89,740.89,100.0,0.0933
+b_movies_ireland_on_film2,338.84,338.84,100.0,0.0004
+b_movies_portuguese1,1202.81,1202.81,100.0,0.1116
+b_home_r4b_3,486.87,486.87,100.0,0.0646
+b_tv_english2,722.43,722.43,100.0,0.0049
+b_movies_sci-fi_fantasy2,2898.56,2898.56,100.0,0.0443
+b_tv_all_(a-z)2,1188.75,1188.75,100.0,0.1342
+b_movies_new_releases2,34600.21,34600.21,100.0,0.2872
+b_tv_all_(a-z)1,2361.75,2361.75,100.0,0.1467
+b_movies_award_contenders2,4966.44,4966.44,100.0,0.0308
+b_movies_hebrew2,338.84,338.84,100.0,0.0093
+b_movies_movies_with_chinese_(t)_subtitles1,795.88,795.88,100.0,0.082
+b_movies_movies_under_1.5_hours1,5361.86,5361.85,100.0,0.0922
+b_featured_stand-up1,338.84,338.84,100.0,0.0004
+b_movies_italian2,436.81,436.81,100.0,0.0376
+b_movies_love_in_the_air1,1466.38,1466.38,100.0,0.0002
+b_movies_festival_favorites2,338.84,338.84,100.0,1.0
+b_movies_sci-fi_fantasy1,3827.59,3827.59,100.0,0.0769
+b_movies_korean1,2104.71,2104.71,100.0,0.0242
+b_tv_short_form1,338.84,338.84,100.0,1.0
+b_movies_documentary2,6594.83,6594.83,100.0,0.0331
+b_movies_hindi1,3310.77,3310.77,100.0,0.0278
+b_movies_spanish1,1028.06,1028.06,100.0,0.1805
+b_movies_romance1,1442.28,1442.28,100.0,0.2237
+b_movies_full_throttle1,338.84,338.84,100.0,1.0
+b_movies_vision_voice:_spike_lee2,338.84,338.84,100.0,1.0
+b_tv_apple_tv2,18373.83,18373.83,100.0,0.0751
+b_tv_tv_under_one_hour2,5304.12,5304.12,100.0,0.057
+b_tv_united_videos2,450.24,450.24,100.0,0.0568
+b_tv_lifestyle_reality1,1725.15,1725.15,100.0,0.0594
+b_movies_international1,2386.07,2386.07,100.0,0.1583
+b_tv_short_form2,338.84,338.84,100.0,1.0
+b_tv_peacock1,12643.28,12643.28,100.0,0.1233
+b_movies_anime1,4346.53,4346.53,100.0,0.0661
+b_tv_stand-up_comedy1,939.51,939.51,100.0,0.097
+b_tv_comedy1,2336.87,2336.87,100.0,0.1866
+b_movies_german2,502.96,502.96,100.0,0.027
+b_featured_a241,338.84,338.84,100.0,0.011
+b_tv_animated_comedy1,1028.06,1028.06,100.0,0.146
+b_featured_spotify_video_podcasts2,338.84,338.84,100.0,0.0008
+b_movies_portuguese2,503.48,503.48,100.0,0.0738
+b_movies_award_contenders1,3975.88,3975.88,100.0,0.0658
+b_tv_hbo_max1,3180.43,3180.43,100.0,0.7856
+b_movies_styled_to_perfection2,12308.65,12308.65,100.0,0.0434
+b_movies_drama2,2253.13,2253.13,100.0,0.0529
+b_movies_full_throttle2,338.84,338.84,100.0,1.0
+b_tv_full_seasons1,1387.79,1387.79,100.0,0.652
+b_fb_non-alcoholic1,1442.28,1442.28,100.0,0.1754
+b_tv_veeps:_live_music1,639.44,639.44,100.0,0.0715
+b_movies_blockbusters2,3715.95,3715.95,100.0,0.0585
+b_movies_audio_described_movies2,338.84,338.84,100.0,0.0004
+b_tv_new_onboard1,4263.86,4263.86,100.0,0.5793
+b_featured_a24_podcasts1,338.84,338.84,100.0,1.0
+b_tv_tv_under_one_hour1,4027.26,4027.26,100.0,0.1351
+b_tv_sports1,1227.97,1227.97,100.0,0.1731
+b_movies_ireland_on_film1,344.77,344.77,100.0,0.0004
+b_movies_blockbusters1,2675.89,2675.89,100.0,0.2544
+b_tv_drama2,1636.6,1636.6,100.0,0.0327
+b_movies_movies_under_2_hours1,3484.86,3484.86,100.0,0.1186
+b_tv_lifestyle_reality2,740.89,740.89,100.0,0.0854
+b_featured_spotify_playlists2,338.84,338.84,100.0,0.0105
+b_movies_movies_with_portuguese_subtitles2,338.84,338.84,100.0,0.0194
+b_movies_perfect_plane_movies2,5485.87,5485.87,100.0,0.0743
+b_tv_comedy2,1294.54,1294.54,100.0,0.1886
+b_tv_concerts_live_events1,3072.21,3072.21,100.0,0.2343
+b_tv_documentary2,2358.36,2358.36,100.0,0.0578
+b_movies_arabic1,748.89,748.89,100.0,0.0126
+b_tv_food_travel1,1885.83,1885.83,100.0,0.1584
+b_tv_anime2,338.84,338.84,100.0,0.0076
+b_tv_tv_under_a_half_hour1,2589.49,2589.49,100.0,0.237
+b_tv_anime1,961.94,961.94,100.0,0.0997
+b_tv_apple_tv1,2902.91,2902.91,100.0,0.9576
+b_featured_spotify_playlists1,338.84,338.84,100.0,0.0266
+b_featured_concerts1,338.84,338.84,100.0,0.003
+b_movies_award_winners2,12754.0,12754.0,100.0,0.0347
+b_featured_spotify_podcasts1,338.84,338.84,100.0,0.0034
+b_movies_international2,1925.05,1925.05,100.0,0.0847
+b_movies_movies_with_korean_subtitles1,372.77,372.77,100.0,0.0234
+b_movies_festival_favorites1,694.43,694.43,100.0,0.0002
+b_featured_spotify_video_podcasts1,338.84,338.84,100.0,0.0008
+b_movies_through_her_lens2,338.84,338.84,100.0,0.0017
+b_movies_fourth_goal2,338.84,338.84,100.0,1.0
+b_movies_a241,4795.65,4795.65,100.0,0.086
+b_movies_movies_under_2_hours2,3125.42,3125.42,100.0,0.0801
+b_featured_spotify_audiobooks1,338.84,338.84,100.0,0.0067
+b_movies_movies_with_spanish_subtitles1,927.35,927.35,100.0,0.1012
+b_movies_subtitled/captioned_movies2,338.84,338.84,100.0,0.0245
+b_movies_movies_with_spanish_subtitles2,843.62,843.62,100.0,0.0474
+b_movies_thriller1,1195.17,1195.17,100.0,0.2296
+b_movies_award_winners1,13789.51,13789.51,100.0,0.0444
+b_tv_classic_tv2,410.67,410.67,100.0,0.0324
+b_featured_apple_tv_shows1,2251.88,2251.88,100.0,0.1352
+b_featured_a24_podcasts2,338.84,338.84,100.0,1.0
+b_featured_hbo_max_tv_shows2,461.69,461.69,100.0,0.0489
+b_movies_comedy2,4462.83,4462.83,100.0,0.0919
+b_movies_romance2,1460.94,1460.94,100.0,0.1009
+b_movies_french1,773.66,773.66,100.0,0.0787
+b_movies_a242,1359.59,1359.59,100.0,0.1466
+b_tv_three_perfect_days1,939.51,939.51,100.0,0.0748
+b_movies_documentary1,2619.4,2619.4,100.0,0.1303
+b_featured_veeps:_live_music2,338.84,338.84,100.0,0.0055
+b_featured_stand-up2,338.84,338.84,100.0,1.0
+b_movies_italian1,902.68,902.68,100.0,0.0791
+b_movies_movies_with_portuguese_subtitles1,1177.9,1177.9,100.0,0.1132
+b_featured_peacock2,563.94,563.94,100.0,0.0732
+b_featured_hbo_max_tv_shows1,739.07,739.07,100.0,0.0837
+b_featured_spotify_podcasts2,338.84,338.84,100.0,0.0042
+b_movies_anime2,338.84,338.84,100.0,0.0181
+b_tv_classic_tv1,2464.15,2464.15,100.0,0.0933
+b_movies_classics2,2249.48,2249.48,100.0,0.1141
+b_movies_sports1,1002.02,1002.02,100.0,0.1051
+b_featured_peacock_tv_shows2,517.14,517.14,100.0,0.0945
+b_movies_all_(a-z)1,11433.35,11433.35,100.0,0.752
+b_featured_a24_movies2,338.84,338.84,100.0,0.003
+b_tv_sports2,1389.54,1389.54,100.0,0.0948
+b_movies_english2,799.11,799.11,100.0,0.0202
+b_movies_vision_voice:_spike_lee1,338.84,338.84,100.0,1.0
+b_movies_movies_with_chinese_(t)_subtitles2,531.38,531.38,100.0,0.0597
+b_tv_peacock2,498.76,498.76,100.0,0.0954
+b_audio_audiobooks1,1878.33,1878.32,100.0,0.0839
+b_audio_playlists1,5646.1,5646.1,100.0,0.277
+b_movies_hindi2,748.52,748.52,100.0,0.096
+b_movies_english1,3776.37,3776.38,100.0,0.0077
+b_tv_subtitled/captioned_tv1,338.84,338.84,100.0,0.0413
+b_home_r4b_4,436.81,436.81,100.0,0.0638
+b_tv_spotify_podcasts1,1732.66,1732.66,100.0,0.1221
+b_featured_spotify2,338.84,338.84,100.0,0.0072
+b_movies_japanese2,723.3,723.3,100.0,0.1007
+b_movies_chinese_(traditional)1,698.88,698.88,100.0,0.048
+b_featured_apple_tv:_movies1,631.96,631.96,100.0,0.0622
+b_movies_french2,510.71,510.71,100.0,0.0417
+b_featured_spotify1,338.84,338.84,100.0,0.0114
+b_movies_perfect_plane_movies1,3519.6,3519.6,100.0,0.2577
+b_tv_japanese1,406.97,406.97,100.0,0.0418
+b_tv_three_perfect_days2,600.89,600.89,100.0,0.0659
+b_audio_playlists2,5503.27,5503.27,100.0,0.1692
+b_movies_spanish2,740.89,740.89,100.0,0.0962
+b_featured_hbo_max2,547.99,547.99,100.0,0.0605
+b_featured_hbo_max1,547.99,547.99,100.0,0.0699
+b_movies_drama1,1354.89,1354.89,100.0,0.205
+b_movies_all_(a-z)2,32764.74,32764.74,100.0,0.1058
+b_tv_full_seasons2,5836.21,5836.21,100.0,0.0529
+b_home4,27597.6,27597.6,100.0,0.401
+b_movies_new_releases1,34838.46,34838.46,100.0,0.6223
+b_featured_peacock_tv_shows1,406.97,406.97,100.0,0.0432
+b_featured_veeps:_live_music1,338.84,338.84,100.0,0.0063
+b_tv_drama1,994.51,994.51,100.0,0.0895
+b_movies_styled_to_perfection1,4321.73,4321.73,100.0,0.3611
+b_movies_movies_with_korean_subtitles2,338.84,338.84,100.0,1.0
+b_movies_japanese1,2929.02,2929.02,100.0,0.1359
+b_movies_movies_with_arabic_subtitles2,338.84,338.84,100.0,0.0008
+b_featured_concerts2,338.84,338.84,100.0,0.0025
+b_audio_audiobooks2,994.51,994.51,100.0,0.0845
+b_movies_action2,3435.67,3435.67,100.0,0.0956
+b_movies_movies_with_french_subtitles1,399.23,399.23,100.0,0.0304
+b_movies_movies_with_arabic_subtitles1,338.84,338.84,100.0,0.0021
+b_fb_breakfast1,338.84,338.84,100.0,1.0
+b_tv_hbo_max2,8510.69,8510.69,100.0,0.1528
+b_movies_movies_under_1.5_hours2,3939.87,3939.87,100.0,0.0848
+b_movies_korean2,799.11,799.11,100.0,0.0265
+b_movies_comedy1,3606.18,3606.18,100.0,0.2531
+b_movies_thriller2,5056.13,5056.12,100.0,0.0266
+b_tv_food_travel2,1188.75,1188.75,100.0,0.1304
+b_movies_audio_described_movies1,338.84,338.84,100.0,1.0
+b_tv_korean1,2318.23,2318.23,100.0,1.0
+b_movies_hebrew1,338.84,338.84,100.0,0.008
+b_tv_spanish2,372.77,372.77,100.0,0.033
+b_movies_movies_with_hebrew_subtitles2,338.84,338.84,100.0,0.0114
+b_movies_love_in_the_air2,1964.81,1964.81,100.0,0.0002
+b_featured_a24_movies1,338.84,338.84,100.0,0.0038
+b_featured_apple_tv:_movies2,436.81,436.81,100.0,0.037
+b_featured_apple_tv2,372.77,372.77,100.0,0.0238
+b_movies_chinese_(traditional)2,461.69,461.69,100.0,0.0371
+b_featured_apple_tv_shows2,769.05,769.05,100.0,0.1027
+b_fb_snacks1,2205.18,2205.18,100.0,0.0509
+b_featured_spotify_audiobooks2,338.84,338.84,100.0,0.0017
+b_fb_non-alcoholic2,8151.12,8151.12,100.0,0.0297
+b_tv_veeps:_live_music2,461.69,461.69,100.0,0.0563
+b_tv_concerts_live_events2,12468.36,12468.36,100.0,0.0327
+b_featured_peacock1,475.06,475.06,100.0,0.0628
+b_tv_spotify_podcasts2,2358.36,2358.36,100.0,0.0521
+b_movies_through_her_lens1,344.77,344.77,100.0,0.0021
+b_movies_fourth_goal1,338.84,338.84,100.0,1.0
+b_tv_english1,2034.2,2034.2,100.0,0.0029
+b_movies_arabic2,338.84,338.84,100.0,0.0173
+b_home3,118915.39,118915.38,100.0,0.1132
+b_movies_german1,704.02,704.02,100.0,0.0428
+b_audio_podcasts2,5811.79,5811.79,100.0,0.053
+b_tv_subtitled/captioned_tv2,338.84,338.84,100.0,0.0169
+b_audio_podcasts1,3451.15,3451.15,100.0,0.1481
+b_movies_movies_with_hebrew_subtitles1,346.58,346.58,100.0,0.0495
+b_featured_apple_tv1,410.67,410.67,100.0,0.033
+b_tv_new_onboard2,11228.13,11228.13,100.0,0.1144
+b_tv_animated_comedy2,858.08,858.08,100.0,0.0924
+b_movies_classics1,1978.81,1978.81,100.0,0.2837
+b_tv_united_videos1,2104.71,2104.71,100.0,0.0202
+b_movies_action1,5437.64,5437.64,100.0,0.1549
+b_tv_documentary1,1195.17,1195.17,100.0,0.2031
+b_tv_tv_under_a_half_hour2,4207.59,4207.59,100.0,0.0735
+b_movies_subtitled/captioned_movies1,406.97,406.97,100.0,0.0684
+b_tv_stand-up_comedy2,718.66,718.66,100.0,0.0797
+b_movies_movies_with_japanese_subtitles1,514.92,514.92,100.0,0.0788
+b_movies_movies_with_french_subtitles2,338.84,338.84,100.0,0.0034
+b_fp3d_fop,19396.55,27489.1,70.56,0.1348
+b_tv_'tis_the_season2,25462.96,54133.61,47.04,1.0
+Women's Stories TV,0.0,0.0,0.0,1.0
+b_pause_movies_superpowered,0.0,0.0,0.0,1.0
+Audio Landing Screen Banner Rotating 3,0.0,0.0,0.0,1.0
+b_tv_japanese2,0.0,0.0,0.0,1.0
+b_movies_arabic3,0.0,0.0,0.0,1.0
+Kids Games Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_subtitles3,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_descriptive_audio3,0.0,0.0,0.0,1.0
+AAPI Stories,0.0,0.0,0.0,1.0
+TV Landing Screen Banner Rotating Opened 3,0.0,0.0,0.0,1.0
+Connected Phone,0.0,0.0,0.0,1.0
+Center Stage,0.0,0.0,0.0,1.0
+NEXT - TV - divider small left,0.0,0.0,0.0,1.0
+b_tv_dutch1,0.0,0.0,0.0,1.0
+b_pause_video_podcasts_from_spotify,0.0,0.0,0.0,1.0
+Screensaver2,0.0,0.0,0.0,1.0
+b_movies_movies_with_german_subtitles2,0.0,0.0,0.0,1.0
+b_movies_action3,0.0,0.0,0.0,1.0
+b_movies_hebrew4,0.0,0.0,0.0,1.0
+Movies By Language Finnish,0.0,0.0,0.0,1.0
+eX2 MAIN MENU MOVIES POSTER,0.0,0.0,0.0,1.0
+All-HOME-TAP Air Portugal-About-All,0.0,0.0,0.0,1.0
+Rock Audio Banner Zone,0.0,0.0,0.0,1.0
+b_featured_veeps1,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_audio_descriptive3,0.0,0.0,0.0,1.0
+Endless Summer,0.0,0.0,0.0,1.0
+Music Rock,0.0,0.0,0.0,1.0
+Broadway Channel TV Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_audio_descriptive4,0.0,0.0,0.0,1.0
+b_tv_lifestyle_reality4,0.0,0.0,0.0,1.0
+Mobile Portal Portuguese Home Page Banner Zone MICRO,0.0,0.0,0.0,1.0
+b_movies_movies_with_greek_descriptive_audio2,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_audio_descriptive2,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_descriptive_audio3,0.0,0.0,0.0,1.0
+Mindvalley,0.0,0.0,0.0,1.0
+ARC Map Interstitial Accelerating,0.0,0.0,0.0,1.0
+Favorite Franchises,0.0,0.0,0.0,1.0
+ARC Map Interstitial Touchdown,0.0,0.0,0.0,1.0
+eX2 non-GCS Kinai Welcome Screensaver Interstitial 2,0.0,0.0,0.0,1.0
+TV Sport TV,0.0,0.0,0.0,1.0
+From Page to Screen,0.0,0.0,0.0,1.0
+Action-Adventure TV Banner Zone,0.0,0.0,0.0,1.0
+b_tv_lifestyle_reality3,0.0,0.0,0.0,1.0
+Movies Subdivider 1 Banner,0.0,0.0,0.0,1.0
+Halloween Movies Banner Zone,0.0,0.0,0.0,1.0
+b_tv_stand_up_comedy1,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_descriptive_audio4,0.0,0.0,0.0,1.0
+b_notification_center3,0.0,0.0,0.0,1.0
+Movies A-Z Movies,0.0,0.0,0.0,1.0
+b_movies_audio_described_movies3,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_portuguese_audio_descriptive,0.0,0.0,0.0,1.0
+Award Nominated,0.0,0.0,0.0,1.0
+b_featured_spotify_video_podcasts3,0.0,0.0,0.0,1.0
+Air Europa Synopsis,0.0,0.0,0.0,1.0
+Battle of the Chrises,0.0,0.0,0.0,1.0
+b_movies_movies_with_hindi_descriptive_audio2,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_descriptive_audio4,0.0,0.0,0.0,1.0
+Kids TV,0.0,0.0,0.0,1.0
+b_pause_tv_max,0.0,80.13,0.0,1.0
+Music R&B Synopsis,0.0,0.0,0.0,1.0
+b_featured_a243,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_spanish_descriptive_audio,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_audio_descriptive2,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_greek_audio_descriptive,0.0,0.0,0.0,1.0
+Movies Landing Screen Banner Rotating 1,0.0,0.0,0.0,1.0
+b_welcome5,0.0,77667.34,0.0,0.3507
+Musical Movies Banner Zone,0.0,0.0,0.0,1.0
+TV Landing Screen Banner Rotating 1,0.0,0.0,0.0,1.0
+b_pause_movies_thriller,0.0,338.84,0.0,0.0067
+b_pause_tv_tv_with_arabic_audio_descriptive,0.0,0.0,0.0,1.0
+b_pause_tv_spanish,0.0,338.84,0.0,1.0
+Movies Landing Screen Banner Rotating Opened 2,0.0,0.0,0.0,1.0
+NEXT - Movie - divider small left,0.0,0.0,0.0,1.0
+eX1/eX3 High Capacity Welcome Screensaver Interstitial 3,0.0,0.0,0.0,1.0
+Hey Bear Sensory,0.0,0.0,0.0,1.0
+b_movies_fourth_goal4,0.0,0.0,0.0,1.0
+Destination Banner 1,0.0,0.0,0.0,1.0
+b_tv_food_travel3,0.0,0.0,0.0,1.0
+b_tv_united_videos4,0.0,0.0,0.0,1.0
+Movies Comedy,0.0,0.0,0.0,1.0
+b_tv_new_onboard4,0.0,338.84,0.0,1.0
+b_tv_tv_under_one_hour3,0.0,0.0,0.0,1.0
+b_pause_tv_apple_tv,0.0,461.69,0.0,0.0613
+Weather Banner 1,0.0,0.0,0.0,1.0
+b_movies_movies_with_french_subtitles4,0.0,0.0,0.0,1.0
+b_movies_most_watched_movies_20251,0.0,338.84,0.0,1.0
+NEXT - Flight overview large card_1,0.0,0.0,0.0,1.0
+Asian American & Pacific Islander Stories TV,0.0,0.0,0.0,1.0
+MI - Language Interstitial - 99999,0.0,0.0,0.0,1.0
+TV Lifestyle,0.0,0.0,0.0,1.0
+MENU > GAMES,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_audio_descriptive2,0.0,0.0,0.0,1.0
+eX3 GAMES_SUB-CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+b_movies_thriller4,0.0,0.0,0.0,1.0
+b_pause_movies_sports,0.0,338.84,0.0,0.0008
+b_pause_tv_all_(a-z),0.0,338.84,0.0,0.0177
+b_featured_podcasts_from_spotify2,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_hebrew_descriptive_audio,0.0,0.0,0.0,1.0
+My Flight Welcome/Language Banner Zone,0.0,0.0,0.0,1.0
+Communicate Welcome/Language Banner Zone,0.0,0.0,0.0,1.0
+Hispanic Heritage Movies Banner,0.0,0.0,0.0,1.0
+b_tv_chinese_(simple)4,0.0,0.0,0.0,1.0
+b_tv_stand_up_comedy4,0.0,0.0,0.0,1.0
+b_pause_movies_full_throttle,0.0,338.84,0.0,1.0
+Apollo: Art in the Sky,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_descriptive_audio3,0.0,0.0,0.0,1.0
+b_pause_spotify,0.0,0.0,0.0,1.0
+b_featured_apple_tv:_movies4,0.0,0.0,0.0,1.0
+b_movies_superpowered2,0.0,338.84,0.0,1.0
+Middle Eastern Cinema,0.0,0.0,0.0,1.0
+b_pause_featured_a24_podcasts,0.0,0.0,0.0,1.0
+Latin,0.0,0.0,0.0,1.0
+Kids Movies Comedy,0.0,0.0,0.0,1.0
+eX3 MUSIC SUB-CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+ Home Page banner 3,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_descriptive_audio2,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_descriptive_audio1,0.0,0.0,0.0,1.0
+b_pause_tv_drama,0.0,338.84,0.0,0.0008
+Astrova - Language Video Interstitial,0.0,0.0,0.0,1.0
+b_movies_'tis_the_season2,0.0,0.0,0.0,1.0
+eX2 MAIN MENU GAMES POSTER,0.0,0.0,0.0,1.0
+b_pause_movies_blockbusters,0.0,338.84,0.0,0.0173
+b_movies_love_in_the_air4,0.0,0.0,0.0,1.0
+b_pause_featured_apple_tv_shows,0.0,418.42,0.0,0.0413
+Movies By Language Norwegian,0.0,0.0,0.0,1.0
+b_tv_all_(a-z)3,0.0,0.0,0.0,1.0
+b_movies_fourth_goal3,0.0,0.0,0.0,1.0
+b_pause_featured_stand-up,0.0,338.84,0.0,1.0
+Victoria Other,0.0,0.0,0.0,1.0
+eX2 non-GCS Kinai Welcome Screensaver Interstitial 5,0.0,0.0,0.0,1.0
+Podcast Entertainment,0.0,0.0,0.0,1.0
+b_home1,0.0,71216.25,0.0,0.4032
+OM Arrival Ad (Flight Script),0.0,0.0,0.0,1.0
+b_tv_italian2,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_subtitles4,0.0,0.0,0.0,1.0
+eX2 Welcome Screensaver Interstitial 4,0.0,0.0,0.0,1.0
+b_movies_dutch3,0.0,0.0,0.0,1.0
+Kids > Music > Kids,0.0,0.0,0.0,1.0
+b_movies_a244,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_audio_descriptive3,0.0,0.0,0.0,1.0
+Short Films,0.0,0.0,0.0,1.0
+International Movies Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_descriptive_audio1,0.0,0.0,0.0,1.0
+b_movies_movies_under_1.5_hours4,0.0,0.0,0.0,1.0
+b_movies_movies_with_dutch_subtitles3,0.0,0.0,0.0,1.0
+b_tv_concerts_live_events3,0.0,0.0,0.0,1.0
+Welcome Screen Video Interstitial,0.0,0.0,0.0,1.0
+b_movies_hindi4,0.0,0.0,0.0,1.0
+b_pause_tv_classic_tv,0.0,338.84,0.0,0.0046
+b_movies_horror2,0.0,0.0,0.0,1.0
+b_tv_most_watched_tv_20252,0.0,338.84,0.0,1.0
+b_games_mode3,0.0,0.0,0.0,1.0
+Movies Other,0.0,0.0,0.0,1.0
+b_movies_chinese_(traditional)3,0.0,0.0,0.0,1.0
+b_movies_new_releases3,0.0,338.84,0.0,1.0
+b_featured_movies_from_max2,0.0,0.0,0.0,1.0
+b_movies_fall_in_love2,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_chinese_(t)_audio_descriptive,0.0,0.0,0.0,1.0
+eX2 MOVIE SUB-CATEGORY DIVIDER 5 ,0.0,0.0,0.0,1.0
+TAP Air Portugal > About (AIR-182),0.0,0.0,0.0,1.0
+b_movies_international4,0.0,0.0,0.0,1.0
+ARC Map Interstitial Lift Off,0.0,0.0,0.0,1.0
+Video2,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_subtitles1,0.0,0.0,0.0,1.0
+Audio Main Pop-Up Banner,0.0,0.0,0.0,1.0
+eX2 MUSIC SUB-CATEGORY DIVIDER 1,0.0,0.0,0.0,1.0
+b_tv_documentary3,0.0,0.0,0.0,1.0
+b_movies_movies_with_korean_descriptive_audio3,0.0,0.0,0.0,1.0
+Music TV Banner,0.0,0.0,0.0,1.0
+Movies By Language Danes Synopsis,0.0,0.0,0.0,1.0
+Battle of the Monsters,0.0,0.0,0.0,1.0
+Kids TV Comedy,0.0,0.0,0.0,1.0
+eX3 VIDEOS POSTER,0.0,0.0,0.0,1.0
+eX2 MOVIE SUB-CATEGORY DIVIDER 1 ,0.0,0.0,0.0,1.0
+Safety,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_descriptive_audio4,0.0,0.0,0.0,1.0
+b_movies_movies_with_italian_descriptive_audio1,0.0,0.0,0.0,1.0
+Favorites Welcome/Language Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_subtitles1,0.0,0.0,0.0,1.0
+b_fb_snackboxes1,0.0,0.0,0.0,1.0
+b_movies_horror1,0.0,0.0,0.0,1.0
+TAP Air Portugal > About (AIR-203),0.0,0.0,0.0,1.0
+b_movies_german4,0.0,0.0,0.0,1.0
+b_tv_stand-up_comedy3,0.0,0.0,0.0,1.0
+TV News,0.0,0.0,0.0,1.0
+b_movies_movies_with_italian_descriptive_audio4,0.0,0.0,0.0,1.0
+Destino Miami,0.0,0.0,0.0,1.0
+b_home3_verified,0.0,344.77,0.0,1.0
+b_tv_tv_with_hebrew_audio_descriptive2,0.0,0.0,0.0,1.0
+b_tv_sports4,0.0,0.0,0.0,1.0
+b_featured_tv-series_from_a241,0.0,0.0,0.0,1.0
+b_pause_movies_drama,0.0,338.84,0.0,0.0207
+b_pause_tv_tv_with_spanish_descriptive_audio,0.0,0.0,0.0,1.0
+Music Classical,0.0,0.0,0.0,1.0
+Halloween TV Banner Zone,0.0,0.0,0.0,1.0
+eX3 MAIN MENU MOVIES POSTER,0.0,0.0,0.0,1.0
+b_fb_dinner4,0.0,0.0,0.0,1.0
+Movies UK Cinema Large Poster,0.0,0.0,0.0,1.0
+b_pause_tv_popular_tv,0.0,0.0,0.0,1.0
+b_tv_portuguese2,0.0,0.0,0.0,1.0
+TV TV Series,0.0,0.0,0.0,1.0
+Kids Movies,0.0,0.0,0.0,1.0
+TV Landing Screen Banner Rotating Opened 4,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_audio_descriptive2,0.0,0.0,0.0,1.0
+NEXT - Movie - divider small right,0.0,0.0,0.0,1.0
+Decades Audio Banner,0.0,0.0,0.0,1.0
+Audiobook Thrillers,0.0,0.0,0.0,1.0
+b_featured_video_podcasts_from_spotify2,0.0,0.0,0.0,1.0
+Movies By Language French Synopsis,0.0,0.0,0.0,1.0
+Movies All Large Poster,0.0,0.0,0.0,1.0
+Music Kids Synopsis,0.0,0.0,0.0,1.0
+Curious Georges 75 Anniversary TV Banner Zone,0.0,0.0,0.0,1.0
+NEXT - Flight overview large card_2,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(s)_subtitles4,0.0,0.0,0.0,1.0
+b_featured_hbo_max4,0.0,0.0,0.0,1.0
+b_pause_featured_apple_tv+_shows,0.0,0.0,0.0,1.0
+ARC Map Interstitial Climb,0.0,0.0,0.0,1.0
+b_movies_greek4,0.0,0.0,0.0,1.0
+TV Euronews,0.0,0.0,0.0,1.0
+eX3 VIDEOS CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+b_tv_veeps:_live_music3,0.0,0.0,0.0,1.0
+TV Gastronomy,0.0,0.0,0.0,1.0
+TV - Baby First,0.0,0.0,0.0,1.0
+b_featured_spotify_audiobooks4,0.0,0.0,0.0,1.0
+Home Page Carousel 2 (Position 3),0.0,0.0,0.0,1.0
+Movies By Language Swedish Synopsis,0.0,0.0,0.0,1.0
+b_movies_documentary3,0.0,0.0,0.0,1.0
+b_featured_apple_tv:_movies3,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(s)_descriptive_audio2,0.0,0.0,0.0,1.0
+b_notification_center1,0.0,32630.41,0.0,0.0015
+Country Audio Banner Zone,0.0,0.0,0.0,1.0
+b_tv_korean2,0.0,0.0,0.0,1.0
+b_movies_korean3,0.0,0.0,0.0,1.0
+AdPool eX3 Welcome Screensaver Interstitial 2,0.0,0.0,0.0,1.0
+Sci-Fi TV Banner Zone,0.0,0.0,0.0,1.0
+ARC Map Interstitial descending,0.0,0.0,0.0,1.0
+b_movies_comedy3,0.0,0.0,0.0,1.0
+90 Minute Movies,0.0,0.0,0.0,1.0
+All-MENU-MOVIES-TAP 70,0.0,0.0,0.0,1.0
+b_pause_featured_tv-series_from_a24,0.0,0.0,0.0,1.0
+b_tv_full_seasons4,0.0,0.0,0.0,1.0
+b_concerts_and_live_events1,0.0,0.0,0.0,1.0
+Music Africa,0.0,0.0,0.0,1.0
+b_pause_featured_a24,0.0,0.0,0.0,1.0
+  Games Action & Arcade Small Poster ,0.0,0.0,0.0,1.0
+TV - Jimi Hendrix,0.0,0.0,0.0,1.0
+b_tv_most_watched_tv_20251,0.0,338.84,0.0,1.0
+b_movies_german3,0.0,0.0,0.0,1.0
+ARC Map Interstitial Taxi to stop,0.0,0.0,0.0,1.0
+b_pause_movies_classics,0.0,338.84,0.0,0.0143
+Victoria Claim Miles,0.0,0.0,0.0,1.0
+b_tv_popular_tv2,0.0,0.0,0.0,1.0
+b_movies_movies_with_arabic_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_descriptive_audio2,0.0,0.0,0.0,1.0
+b_featured_playlists_from_spotify2,0.0,15542.59,0.0,1.0
+b_movies_movies_with_hindi_descriptive_audio1,0.0,0.0,0.0,1.0
+b_concerts_and_live_events2,0.0,0.0,0.0,1.0
+VPA 1 w/ Ads (A350-900),0.0,0.0,0.0,1.0
+Movies Featured Banner 2,0.0,0.0,0.0,1.0
+Movies By Language Polish,0.0,0.0,0.0,1.0
+New Releases Movies Banner Zone,0.0,0.0,0.0,1.0
+eX2 GAMES_SUB-CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(t)_descriptive_audio4,0.0,0.0,0.0,1.0
+b_movies_superpowered3,0.0,0.0,0.0,1.0
+Comedy TV Banner Zone,0.0,0.0,0.0,1.0
+Music > Artist of the Month,0.0,0.0,0.0,1.0
+b_tv_box_set1,0.0,0.0,0.0,1.0
+eX2 Welcome Screensaver Interstitial 5,0.0,0.0,0.0,1.0
+True Crime Chronicles,0.0,0.0,0.0,1.0
+Tv Cartoons,0.0,0.0,0.0,1.0
+b_tv_popular_tv4,0.0,0.0,0.0,1.0
+Series TV Banner Zone,0.0,0.0,0.0,1.0
+Movies By Language English Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_subtitles3,0.0,0.0,0.0,1.0
+b_pause_featured_apple_tv,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_subtitles1,0.0,0.0,0.0,1.0
+TV ,0.0,0.0,0.0,1.0
+Anime Series,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_subtitles2,0.0,0.0,0.0,1.0
+b_movies_movies_with_portuguese_subtitles3,0.0,0.0,0.0,1.0
+Pride Channel TV,0.0,0.0,0.0,1.0
+b_fb_dinner3,0.0,0.0,0.0,1.0
+Movies Classics Synopsis,0.0,0.0,0.0,1.0
+Give Thanks,0.0,0.0,0.0,1.0
+Shopping,0.0,0.0,0.0,1.0
+LiveTV Featured Hero,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_audio_descriptive2,0.0,0.0,0.0,1.0
+VPA 1 w/ Ads (A330-300),0.0,0.0,0.0,1.0
+Indian Cinema,0.0,0.0,0.0,1.0
+Wi-Fi Synopsis,0.0,0.0,0.0,1.0
+b_audio_podcasts3,0.0,0.0,0.0,1.0
+ARC Map Interstitial Power Up,0.0,0.0,0.0,1.0
+b_tv_short_form4,0.0,0.0,0.0,1.0
+b_tv_greek3,0.0,0.0,0.0,1.0
+b_movies_hindi3,0.0,0.0,0.0,1.0
+Movies Subdivider 7 Banner,0.0,0.0,0.0,1.0
+b_movies_english3,0.0,0.0,0.0,1.0
+American Black Film Festival,0.0,0.0,0.0,1.0
+IFE Seatback Welcome Screensaver Interstitial 4,0.0,0.0,0.0,1.0
+b_pause_movies_animation,0.0,0.0,0.0,1.0
+b_tv_hebrew2,0.0,0.0,0.0,1.0
+b_featured_a24_movies3,0.0,0.0,0.0,1.0
+Videos Subdivider 8 Banner,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_french_audio_descriptive,0.0,0.0,0.0,1.0
+IFE Seatback - Language Video Interstitial,0.0,0.0,0.0,1.0
+  Movies Family Large Poster ,0.0,0.0,0.0,1.0
+Movies Action Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_under_half_hour3,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_chinese_(t)_subtitles,0.0,338.84,0.0,0.0004
+b_pause_movies_english,0.0,338.84,0.0,1.0
+Kids Movies Movies,0.0,0.0,0.0,1.0
+b_tv_german1,0.0,0.0,0.0,1.0
+HBO TV Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_descriptive_audio2,0.0,0.0,0.0,1.0
+b_fb_lunch1,0.0,0.0,0.0,1.0
+Movies Subdivider 8 Banner,0.0,0.0,0.0,1.0
+b_movies_pixel_to_picture2,0.0,0.0,0.0,1.0
+b_pause_movies_award_contenders,0.0,350.28,0.0,0.0073
+Music R&B,0.0,0.0,0.0,1.0
+TV > GENIUS,0.0,0.0,0.0,1.0
+b_pause_featured_max,0.0,0.0,0.0,1.0
+eX3 MAIN MENU AIRLINE INFO POSTER,0.0,0.0,0.0,1.0
+Main Menu Welcome,0.0,0.0,0.0,1.0
+b_pause_tv_tv_under_half_hour,0.0,342.55,0.0,1.0
+b_movies_love_in_the_air3,0.0,0.0,0.0,1.0
+Music Rock & Pop,0.0,0.0,0.0,1.0
+Music Brazil,0.0,0.0,0.0,1.0
+b_movies_superpowered1,0.0,338.84,0.0,1.0
+b_tv_tv_with_korean_audio_descriptive4,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_subtitles3,0.0,0.0,0.0,1.0
+eX1 Kinai Welcome Screensaver Interstitial 1,0.0,0.0,0.0,1.0
+All-MENU-TV-WHAT'S NEW,0.0,0.0,0.0,1.0
+All Movies Banner Zone,0.0,0.0,0.0,1.0
+b_tv_classic_tv3,0.0,0.0,0.0,1.0
+b_tv_food_travel4,0.0,0.0,0.0,1.0
+AdPool eX1/eX3 High Capacity Welcome Screensaver Interstitial 2,0.0,0.0,0.0,1.0
+Audio Books Audio Banner Zone,0.0,0.0,0.0,1.0
+Tap Destinations,0.0,0.0,0.0,1.0
+Music Electronic Synopsis,0.0,0.0,0.0,1.0
+Movies DC Super Heroes Large Poster,0.0,0.0,0.0,1.0
+Music Classic Synopsis,0.0,0.0,0.0,1.0
+b_movies_movies_with_japnese_subtitles2,0.0,0.0,0.0,1.0
+Holidays in the Sky,0.0,0.0,0.0,1.0
+b_featured_podcasts_from_hbo_max2,0.0,0.0,0.0,1.0
+Movies Subdivider 5 Banner,0.0,0.0,0.0,1.0
+b_tv_italian1,0.0,0.0,0.0,1.0
+b_tv_international2,0.0,0.0,0.0,1.0
+WiFi,0.0,0.0,0.0,1.0
+b_featured_spotify_podcasts4,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_audio_descriptive3,0.0,0.0,0.0,1.0
+Music Jazz ,0.0,0.0,0.0,1.0
+b_pause_home_home_relax,0.0,338.84,0.0,0.0042
+eX2 GAMES SUB-CATEGORY DIVIDER 1,0.0,0.0,0.0,1.0
+b_tv_sci-fi3,0.0,0.0,0.0,1.0
+Music > Brazilian,0.0,0.0,0.0,1.0
+b_movies_movies_with_hebrew_descriptive_audio2,0.0,0.0,0.0,1.0
+Videos Subdivider 2 Banner,0.0,0.0,0.0,1.0
+b_movies_movies_with_greek_subtitles4,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_descriptive_audio2,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_portuguese_descriptive_audio,0.0,0.0,0.0,1.0
+b_movies_movies_with_dutch_descriptive_audio4,0.0,0.0,0.0,1.0
+eX2 TELEVISION SUB-CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+b_pause_tv_hbo_max,0.0,406.97,0.0,0.0548
+Victoria Sign up,0.0,0.0,0.0,1.0
+b_pause_featured_movies_from_a24,0.0,0.0,0.0,1.0
+eX2 non-GCS - Language Video Interstitial,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_descriptive_audio3,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_greek_subtitles,0.0,0.0,0.0,1.0
+TV Comedy,0.0,0.0,0.0,1.0
+Award Nominated Movies,0.0,0.0,0.0,1.0
+b_tv_animated_comedy3,0.0,0.0,0.0,1.0
+b_movies_animation3,0.0,0.0,0.0,1.0
+Superpowered Summer,0.0,0.0,0.0,1.0
+NEXT - Audio - inline card,0.0,0.0,0.0,1.0
+Holiday Movies Banner,0.0,0.0,0.0,1.0
+Movies By Language English,0.0,0.0,0.0,1.0
+TV Portugal Stopover,0.0,0.0,0.0,1.0
+b_tv_chinese_(traditional)3,0.0,0.0,0.0,1.0
+b_tv_'tis_the_season4,0.0,0.0,0.0,1.0
+Map,0.0,0.0,0.0,1.0
+Reality TV/Home,0.0,0.0,0.0,1.0
+b_tv_french3,0.0,0.0,0.0,1.0
+b_featured_stand-up_from_veeps2,0.0,0.0,0.0,1.0
+b_welcome7,0.0,77667.34,0.0,0.3483
+eX3 MUSIC MAIN LANDING DISMISSIBLE,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_audio_descriptive1,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_german_descriptive_audio,0.0,0.0,0.0,1.0
+Movies All,0.0,0.0,0.0,1.0
+Music Portugal,0.0,0.0,0.0,1.0
+b_tv_tv_under_half_hour2,0.0,0.0,0.0,1.0
+b_tv_hbo_max3,0.0,0.0,0.0,1.0
+TV Landing Screen Banner Rotating Opened 1,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_arabic3,0.0,0.0,0.0,1.0
+Movies Hollywood Large Poster,0.0,0.0,0.0,1.0
+Videos Header Banner,0.0,0.0,0.0,1.0
+b_movies_romance4,0.0,0.0,0.0,1.0
+b_tv_comedy3,0.0,0.0,0.0,1.0
+b_pause_movies_most_watched_movies_2025,0.0,54068.7,0.0,1.0
+b_tv_tv_with_portuguese_subtitles4,0.0,0.0,0.0,1.0
+Movies in Arabic,0.0,0.0,0.0,1.0
+Audio Landing Screen Banner Rotating 4,0.0,0.0,0.0,1.0
+b_pause_tv_hindi,0.0,0.0,0.0,1.0
+Favorite TV Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_subtitles4,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_audio_descriptive2,0.0,0.0,0.0,1.0
+TV Lifestyle&travel,0.0,0.0,0.0,1.0
+Gates,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_audio_descriptive2,0.0,0.0,0.0,1.0
+b_movies_spanish4,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(t)_subtitles3,0.0,0.0,0.0,1.0
+Tv Full Seasons,0.0,0.0,0.0,1.0
+b_tv_veeps2,0.0,342.55,0.0,1.0
+b_pause_tv_tv_with_german_subtitles,0.0,0.0,0.0,1.0
+ARC Map Interstitial Approach,0.0,0.0,0.0,1.0
+b_movies_movies_with_dutch_descriptive_audio3,0.0,0.0,0.0,1.0
+TV Featured Banner 1,0.0,0.0,0.0,1.0
+b_audio_audiobooks4,0.0,0.0,0.0,1.0
+b_pause_tv_featured_spotify_podcasts,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_italian_subtitles,0.0,0.0,0.0,1.0
+eX2 MUSIC SUB-CATEGORY DIVIDER 5,0.0,0.0,0.0,1.0
+eX1/eX3 HC AdPool - Language Video Interstitial,0.0,0.0,0.0,1.0
+b_movies_chinese_(simple)2,0.0,0.0,0.0,1.0
+b_tv_max1,0.0,15542.59,0.0,1.0
+Audio Landing Screen Banner Rotating 1,0.0,0.0,0.0,1.0
+b_movies_mob_movies2,0.0,41589.21,0.0,1.0
+b_movies_full_throttle4,0.0,0.0,0.0,1.0
+TV HBO max,0.0,0.0,0.0,1.0
+b_tv_popular_tv3,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_descriptive_audio4,0.0,0.0,0.0,1.0
+b_movies_dutch1,0.0,0.0,0.0,1.0
+Microsite Zone,0.0,0.0,0.0,1.0
+b_movies_festival_favorites3,0.0,0.0,0.0,1.0
+b_pause_featured_hbo_max_tv_shows,0.0,338.84,0.0,0.0236
+TV Kids,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_greek_subtitles,0.0,0.0,0.0,1.0
+b_tv_chinese_(traditional)4,0.0,0.0,0.0,1.0
+Movies Subdivider 3 Banner,0.0,0.0,0.0,1.0
+b_featured_tv_shows_from_hbo_max1,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_italian_descriptive_audio,0.0,0.0,0.0,1.0
+Favorite Movies,0.0,0.0,0.0,1.0
+Music > Podcast,0.0,0.0,0.0,1.0
+b_movies_horror4,0.0,0.0,0.0,1.0
+NEXT - Widescreen - inline,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_subtitles3,0.0,0.0,0.0,1.0
+Art House-Independent Movies Banner Zone,0.0,0.0,0.0,1.0
+b_pause_movies_trilogy_spotlight,0.0,0.0,0.0,1.0
+b_movies_movies_under_1.5_hours3,0.0,0.0,0.0,1.0
+eX2 MOVIE SUB-CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+Motherly Love,0.0,0.0,0.0,1.0
+eX3 MOVIE SUB-CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+TV Nature,0.0,0.0,0.0,1.0
+b_tv_arabic4,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_dutch_subtitles,0.0,0.0,0.0,1.0
+All-HOME-Entertainment-Get Inspired-All,0.0,0.0,0.0,1.0
+Pop Audio Banner Zone,0.0,0.0,0.0,1.0
+Drama TV Banner Zone,0.0,0.0,0.0,1.0
+b_movies_top_secret:_spy_collection1,0.0,0.0,0.0,1.0
+b_welcome10,0.0,172750.2,0.0,1.0
+Black Stories,0.0,0.0,0.0,1.0
+My Flight,0.0,0.0,0.0,1.0
+eX2 TELEVISION SUB-CATEGORY DIVIDER 1,0.0,0.0,0.0,1.0
+Connecting Gate,0.0,0.0,0.0,1.0
+b_tv_hbo_max4,0.0,0.0,0.0,1.0
+Music Electronic,0.0,0.0,0.0,1.0
+b_welcome3,0.0,77667.34,0.0,0.3572
+b_pause_featured_podcasts_from_a24,0.0,0.0,0.0,1.0
+Movies International Synopsis,0.0,0.0,0.0,1.0
+b_movies_movies_with_korean_subtitles3,0.0,0.0,0.0,1.0
+About Us Welcome/Language Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_subtitles3,0.0,0.0,0.0,1.0
+b_pause_movies_hindi,0.0,338.84,0.0,0.0021
+Movies New Releases,0.0,0.0,0.0,1.0
+Movies By Language Spanish,0.0,0.0,0.0,1.0
+RomCom Royalty,0.0,0.0,0.0,1.0
+Featured This Month Movie Banner,0.0,0.0,0.0,1.0
+Where We Fly About Us Banner Zone,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_dutch_audio_descriptive,0.0,0.0,0.0,1.0
+Movies By Language Estonian Synopsis,0.0,0.0,0.0,1.0
+Audio Header Banner,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_descriptive_audio4,0.0,0.0,0.0,1.0
+WISP Banner 1,0.0,0.0,0.0,1.0
+Allstar Athletes,0.0,0.0,0.0,1.0
+TV - Austin City Limits,0.0,0.0,0.0,1.0
+eX3 MAIN MENU MUSIC POSTER,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_audio_descriptive3,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_audio_descriptive1,0.0,0.0,0.0,1.0
+b_movies,0.0,0.0,0.0,1.0
+b_movies_superpowered4,0.0,0.0,0.0,1.0
+eX2 GAMES_SUB-CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+b_pause_featured_tv_shows_from_max,0.0,1569.57,0.0,1.0
+All-MENU-TV-PLANET EARTH II,0.0,0.0,0.0,1.0
+b_pause_movies_musical_masterpieces,0.0,0.0,0.0,1.0
+b_movies_international3,0.0,0.0,0.0,1.0
+b_relax_mode,0.0,2355.41,0.0,0.0451
+b_movies_movies_with_spanish_descriptive_audio3,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_subtitles4,0.0,0.0,0.0,1.0
+b_movies_movies_with_arabic_subtitles4,0.0,0.0,0.0,1.0
+TV Landing Screen Banner Rotating Opened 2,0.0,0.0,0.0,1.0
+Audio Landing Screen Banner Rotating Opened 3,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_subtitles2,0.0,0.0,0.0,1.0
+b_tv_'tis_the_season3,0.0,0.0,0.0,1.0
+BEYOND - eXO - Language video interstitial,0.0,0.0,0.0,1.0
+b_movies_movies_with_spanish_descriptive_audio1,0.0,0.0,0.0,1.0
+eX3 MOVIE SUB-CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+b_tv_all_(a-z)4,0.0,0.0,0.0,1.0
+AdPool B787 CD Welcome Screensaver Interstitial 3,0.0,0.0,0.0,1.0
+b_pause_movies_sci-fi_fantasy,0.0,338.84,0.0,0.0173
+b_tv_tv_with_hindi_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_subtitles1,0.0,0.0,0.0,1.0
+b_pause_tv_animated_comedy,0.0,338.84,0.0,0.0042
+b_movies_movies_with_hebrew_subtitles4,0.0,0.0,0.0,1.0
+Hospitality Hero 1 (Position 1),0.0,0.0,0.0,1.0
+Movies Fantasy,0.0,0.0,0.0,1.0
+b_pause_movies_audio_described_movies,0.0,0.0,0.0,1.0
+b_home2_fallback,0.0,3056.94,0.0,0.0848
+b_movies_movies_with_greek_descriptive_audio1,0.0,0.0,0.0,1.0
+b_pause_movies_love_in_the_air,0.0,338.84,0.0,1.0
+b_movies_movies_with_italian_descriptive_audio3,0.0,0.0,0.0,1.0
+Movies By Language Arabic Synopsis,0.0,0.0,0.0,1.0
+b_fb_snacks4,0.0,0.0,0.0,1.0
+b_tv_tv_under_a_half_hour4,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_descriptive_audio2,0.0,0.0,0.0,1.0
+Survey Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_audio_descriptive1,0.0,0.0,0.0,1.0
+Victoria Login,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_subtitles1,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_subtitles2,0.0,0.0,0.0,1.0
+b_fp3d_ticker,0.0,381991.69,0.0,0.0063
+Movies - Black History Month,0.0,0.0,0.0,1.0
+Romance Movies Banner Zone,0.0,0.0,0.0,1.0
+Tv Documentaries,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_german_audio_descriptive,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_audio_descriptive2,0.0,0.0,0.0,1.0
+eX1 Kinai Welcome Screensaver Interstitial 3,0.0,0.0,0.0,1.0
+Tap Miles Go Sign up,0.0,0.0,0.0,1.0
+Movies International,0.0,0.0,0.0,1.0
+TV Riding Portugal,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_subtitles3,0.0,0.0,0.0,1.0
+NEXT - Flight overview large card_3,0.0,0.0,0.0,1.0
+Movies Classics,0.0,0.0,0.0,1.0
+TV Disney,0.0,0.0,0.0,1.0
+b_tv_japanese3,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_descriptive_audio3,0.0,0.0,0.0,1.0
+Tv Sports Synopsis,0.0,0.0,0.0,1.0
+Movies By Language Russian Synopsis,0.0,0.0,0.0,1.0
+TV Category Hero 1 (Position 1) ,0.0,0.0,0.0,1.0
+b_pause_movies_portuguese,0.0,338.84,0.0,0.008
+b_fb_snackboxes3,0.0,0.0,0.0,1.0
+b_pause_mob_movies,0.0,0.0,0.0,1.0
+b_tv_stand-up_comedy4,0.0,0.0,0.0,1.0
+New on American TV Banner Zone,0.0,0.0,0.0,1.0
+Fit On,0.0,0.0,0.0,1.0
+IFE Seatback Welcome Screensaver Interstitial 1,0.0,0.0,0.0,1.0
+NEXT - Language video interstitial,0.0,0.0,0.0,1.0
+Food Wine,0.0,0.0,0.0,1.0
+All-MENU-TV-VIKINGS,0.0,0.0,0.0,1.0
+Out of this World,0.0,0.0,0.0,1.0
+Audio Favorites Banner Zone,0.0,0.0,0.0,1.0
+b_audio_audiobooks3,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_subtitles1,0.0,0.0,0.0,1.0
+Music > Classic,0.0,0.0,0.0,1.0
+b_tv_international1,0.0,0.0,0.0,1.0
+Landing Page WiFi Pricing Banner ,0.0,0.0,0.0,1.0
+eX3 TELEVISION SUB-CATEGORY DIVIDER 1,0.0,0.0,0.0,1.0
+b_games_mode4,0.0,0.0,0.0,1.0
+QVC+ and HSN+,0.0,0.0,0.0,1.0
+New this Month,0.0,0.0,0.0,1.0
+Movies Subdivider 4 Banner,0.0,0.0,0.0,1.0
+Fatherly Love TV,0.0,0.0,0.0,1.0
+b_featured_spotify_playlists4,0.0,0.0,0.0,1.0
+All-HOME-Kids-TV-Kids,0.0,0.0,0.0,1.0
+b_tv_tv_under_a_half_hour3,0.0,0.0,0.0,1.0
+Jack of all Trades,0.0,0.0,0.0,1.0
+b_movies_movies_with_french_subtitles3,0.0,0.0,0.0,1.0
+Gaming Blockbusters,0.0,0.0,0.0,1.0
+b_featured_spotify3,0.0,0.0,0.0,1.0
+Movies Family & Co,0.0,0.0,0.0,1.0
+TAP Air Portugal > Wine Experience (AIR-203),0.0,0.0,0.0,1.0
+Games 3D Synopsis,0.0,0.0,0.0,1.0
+b_retail_travel_accessories4,0.0,0.0,0.0,1.0
+b_movies_classics3,0.0,0.0,0.0,1.0
+b_pause_tv_sci-fi,0.0,0.0,0.0,1.0
+b_tv_spanish3,0.0,0.0,0.0,1.0
+b_featured_hbo_max_movies3,0.0,0.0,0.0,1.0
+eX3 TELEVISION_SUB-CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+IFE Seatback Welcome Screensaver Interstitial 2,0.0,0.0,0.0,1.0
+Videos Subdivider 6 Banner,0.0,0.0,0.0,1.0
+Music Jazz & Blues,0.0,0.0,0.0,1.0
+b_movies_movies_with_japanese_subtitles3,0.0,0.0,0.0,1.0
+Map Banner 1,0.0,0.0,0.0,1.0
+Movies By Language Danes,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_descriptive_audio4,0.0,0.0,0.0,1.0
+TV Favorites Banner Zone,0.0,0.0,0.0,1.0
+b_fb_alcoholic4,0.0,0.0,0.0,1.0
+b_movies_movies_with_korean_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_subtitles4,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_descriptive_audio1,0.0,0.0,0.0,1.0
+b_pause_home_home_entertainment,0.0,639.44,0.0,0.0713
+b_tv_tv_with_dutch_subtitles1,0.0,0.0,0.0,1.0
+NEXT - TV - divider small right,0.0,0.0,0.0,1.0
+All-MENU-TV-WINE,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_descriptive_audio1,0.0,0.0,0.0,1.0
+b_movies_movies_with_spanish_descriptive_audio2,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_descriptive_audio3,0.0,0.0,0.0,1.0
+Screensaver1,0.0,0.0,0.0,1.0
+b_tv_box_set2,0.0,0.0,0.0,1.0
+Music > Old School,0.0,0.0,0.0,1.0
+b_notification_center5,0.0,0.0,0.0,1.0
+eX2 VIDEOS CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+ARC Map Interstitial Engines Start,0.0,0.0,0.0,1.0
+eX2 MOVIE SUB-CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+Movies TAP Likes,0.0,0.0,0.0,1.0
+b_featured_hbo_max_podcasts1,0.0,0.0,0.0,1.0
+Favorite Music,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_audio_descriptive3,0.0,0.0,0.0,1.0
+b_featured_concerts4,0.0,0.0,0.0,1.0
+b_audio_spotify1,0.0,0.0,0.0,1.0
+eX3 VIDEOS CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+eX3 VIDEOS DIVIDER 1,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_descriptive_audio4,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(t)_descriptive_audio3,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_korean_audio_descriptive,0.0,0.0,0.0,1.0
+b_welcome8,0.0,77667.34,0.0,0.3475
+b_fb_dinner2,0.0,0.0,0.0,1.0
+Surveys,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_hebrew_audio_descriptive,0.0,0.0,0.0,1.0
+Movies Comedy Synopsis,0.0,0.0,0.0,1.0
+Live Text News Subdivider 2,0.0,0.0,0.0,1.0
+b_movies_award_contenders3,0.0,0.0,0.0,1.0
+b_pause_movies_award_winners,0.0,338.84,0.0,0.0287
+eX2 non-GCS Kinai Welcome Screensaver Interstitial 3,0.0,0.0,0.0,1.0
+Tv Series Synopsis,0.0,0.0,0.0,1.0
+Games 3D,0.0,0.0,0.0,1.0
+b_pause_movies_horror,0.0,0.0,0.0,1.0
+eX3 MAIN MENU GAMES POSTER,0.0,0.0,0.0,1.0
+eX2 TELEVISION SUB-CATEGORY DIVIDER 3,0.0,0.0,0.0,1.0
+b_tv_chinese_(simple)3,0.0,0.0,0.0,1.0
+Bravo,0.0,0.0,0.0,1.0
+b_pause_home_home_focus,0.0,338.84,0.0,0.0042
+b_movies_movies_with_french_descriptive_audio3,0.0,0.0,0.0,1.0
+Kids Movies Synopsis,0.0,0.0,0.0,1.0
+eX3 GAMES SUB-CATEGORY DIVIDER 1,0.0,0.0,0.0,1.0
+Movies,0.0,0.0,0.0,1.0
+eX3 TV SUB-CATEGORY DIVIDER 5,0.0,0.0,0.0,1.0
+Audiobook Classics,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_audio_descriptive2,0.0,0.0,0.0,1.0
+b_tv_hebrew3,0.0,0.0,0.0,1.0
+NEXT - Flight overview top banner,0.0,0.0,0.0,1.0
+b_movies_movies_with_hindi_subtitles1,0.0,0.0,0.0,1.0
+Advantages,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_subtitles2,0.0,0.0,0.0,1.0
+b_featured_max1,0.0,80.13,0.0,1.0
+Victoria All,0.0,0.0,0.0,1.0
+Kids Cartoons Synopsis,0.0,0.0,0.0,1.0
+b_movies_subtitled/captioned_movies4,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_audio_descriptive1,0.0,0.0,0.0,1.0
+Wi-Fi,0.0,0.0,0.0,1.0
+b_movies_rock_solid3,0.0,0.0,0.0,1.0
+Movies Subdivider 10 Banner,0.0,0.0,0.0,1.0
+International TV Banner Zone,0.0,0.0,0.0,1.0
+Movies Romance,0.0,0.0,0.0,1.0
+b_tv_chinese_(simple)1,0.0,0.0,0.0,1.0
+Podcast Real Stories,0.0,0.0,0.0,1.0
+b_pause_movies_rock_solid,0.0,0.0,0.0,1.0
+b_menu,0.0,66615.07,0.0,0.4146
+Kids Movies Fantasy,0.0,0.0,0.0,1.0
+TV TAP Likes,0.0,0.0,0.0,1.0
+Welcome Video Interstitial,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_audio_descriptive4,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_greek_descriptive_audio,0.0,0.0,0.0,1.0
+b_fb_alcoholic3,0.0,0.0,0.0,1.0
+b_tv_sports3,0.0,0.0,0.0,1.0
+b_tv_travel3,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_chinese_(s)_subtitles,0.0,0.0,0.0,1.0
+Music > Portuguese,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_descriptive_audio4,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_audio_descriptive4,0.0,0.0,0.0,1.0
+b_tv_greek1,0.0,0.0,0.0,1.0
+b_games_mode1,0.0,0.0,0.0,1.0
+b_movies_action4,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_arabic_subtitles,0.0,0.0,0.0,1.0
+African Cinema,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_hebrew_subtitles,0.0,0.0,0.0,1.0
+b_movies_movies_with_dutch_descriptive_audio1,0.0,0.0,0.0,1.0
+b_pause_featured_hbo_max_movies,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_audio_descriptive1,0.0,0.0,0.0,1.0
+Entertainment Welcome/Language Banner Zone,0.0,0.0,0.0,1.0
+b_pause_tv_three_perfect_days,0.0,338.84,0.0,1.0
+b_pause_movies_documentary,0.0,338.84,0.0,0.0152
+NEXT - Movie - divider large,0.0,0.0,0.0,1.0
+Main Menu Subdivider 2 Banner,0.0,0.0,0.0,1.0
+LiveTV Featured Banner 1,0.0,0.0,0.0,1.0
+eX3 TELEVISION SUB-CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+eX2 CR - Language Video Interstitial,0.0,0.0,0.0,1.0
+b_movies_rock_solid1,0.0,0.0,0.0,1.0
+TV  - Starz TV,0.0,0.0,0.0,1.0
+eX2 MAIN MENU AIRLINE INFO POSTER,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_subtitles2,0.0,0.0,0.0,1.0
+b_movies_movies_with_japanese_subtitles2,0.0,0.0,0.0,1.0
+Travel TV Banner Zone,0.0,0.0,0.0,1.0
+Animation Movies Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_descriptive_audio1,0.0,0.0,0.0,1.0
+Music Relaxation,0.0,0.0,0.0,1.0
+Tv Full Seasons Synopsis,0.0,0.0,0.0,1.0
+Movies Favorites Banner Zone,0.0,0.0,0.0,1.0
+Womens Stories,0.0,0.0,0.0,1.0
+Movies in Hebrew,0.0,0.0,0.0,1.0
+b_pause_tv_emmy_award_nominees,0.0,0.0,0.0,1.0
+German Movies Banner Zone,0.0,0.0,0.0,1.0
+Tv Documentaries Synopsis,0.0,0.0,0.0,1.0
+Screensaver4,0.0,0.0,0.0,1.0
+b_featured_a24_podcasts3,0.0,0.0,0.0,1.0
+Airline,0.0,0.0,0.0,1.0
+Movies Drama Synopsis,0.0,0.0,0.0,1.0
+b_movies_movies_with_italian_subtitles3,0.0,0.0,0.0,1.0
+Hulu TV Banner Zone,0.0,0.0,0.0,1.0
+Audiobook Wellbeing,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_hebrew_subtitles,0.0,338.84,0.0,1.0
+b_tv_tv_with_chinese_(s)_audio_descriptive3,0.0,0.0,0.0,1.0
+Pride Channel,0.0,0.0,0.0,1.0
+b_movies_indie3,0.0,0.0,0.0,1.0
+eX3 GAMES_SUB-CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+eX2 MUSIC SUB-CATEGORY DIVIDER 3,0.0,0.0,0.0,1.0
+Connect Welcome/Language Banner Zone,0.0,0.0,0.0,1.0
+b_movies_movies_with_hindi_subtitles3,0.0,0.0,0.0,1.0
+b_movies_chinese_(simple)3,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_subtitles3,0.0,0.0,0.0,1.0
+b_pause_featured_podcasts_from_hbo_max,0.0,0.0,0.0,1.0
+Movies Portugues Short Film,0.0,0.0,0.0,1.0
+b_movies_korean4,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_audio_descriptive3,0.0,0.0,0.0,1.0
+Now starring: American,0.0,0.0,0.0,1.0
+b_movies_a243,0.0,0.0,0.0,1.0
+Whats New,0.0,0.0,0.0,1.0
+AdPool eX3 Welcome Screensaver Interstitial 5,0.0,0.0,0.0,1.0
+Movies Subdivider 2 Banner,0.0,0.0,0.0,1.0
+b_tv_chinese_(traditional)2,0.0,0.0,0.0,1.0
+Weather Banner 2,0.0,0.0,0.0,1.0
+b_movies_movies_with_korean_subtitles4,0.0,0.0,0.0,1.0
+b_featured_spotify4,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_portuguese_subtitles,0.0,338.84,0.0,0.0055
+b_movies_real_to_reel1,0.0,15542.59,0.0,1.0
+b_tv_hindi2,0.0,0.0,0.0,1.0
+Matador Network,0.0,0.0,0.0,1.0
+Documentary TV Banner Zone,0.0,0.0,0.0,1.0
+b_tv_emmy_award_nominees1,0.0,0.0,0.0,1.0
+b_pause_movies_all_(a-z),0.0,1599.81,0.0,0.106
+b_movies_animation1,0.0,0.0,0.0,1.0
+b_pause_tv_english,0.0,338.84,0.0,0.0008
+Videos Subdivider 3 Banner,0.0,0.0,0.0,1.0
+b_audio_spotify3,0.0,0.0,0.0,1.0
+b_tv_max2,0.0,0.0,0.0,1.0
+Movies By Language Norwegian Synopsis,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_portuguese_descriptive_audio,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_descriptive_audio2,0.0,0.0,0.0,1.0
+eX2 GAMES SUB-CATEGORY DIVIDER 3,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_audio_descriptive3,0.0,0.0,0.0,1.0
+b_movies_movies_with_hindi_descriptive_audio4,0.0,0.0,0.0,1.0
+eReader,0.0,0.0,0.0,1.0
+b_movies_fall_in_love1,0.0,6072.42,0.0,0.0002
+TV Sci-Tech,0.0,0.0,0.0,1.0
+b_pause_movies_movies_under_1.5_hours,0.0,338.84,0.0,0.003
+b_featured_apple_tv+1,0.0,0.0,0.0,1.0
+b_tv_box_set3,0.0,0.0,0.0,1.0
+eX2 MAIN MENU MUSIC POSTER,0.0,0.0,0.0,1.0
+Audio landing Screen Banner Rotating Opened 1,0.0,0.0,0.0,1.0
+eX2 Welcome Screensaver Interstitial 3,0.0,0.0,0.0,1.0
+About Us Banner 1 ,0.0,0.0,0.0,1.0
+b_tv_german4,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_subtitles2,0.0,0.0,0.0,1.0
+b_movies_blockbusters3,0.0,0.0,0.0,1.0
+Classic Rock Audio Banner Zone,0.0,0.0,0.0,1.0
+b_pause_tv_full_seasons,0.0,366.84,0.0,0.0312
+b_audio_spotify2,0.0,0.0,0.0,1.0
+uTalk,0.0,0.0,0.0,1.0
+ARC Map Interstitial Cruising,0.0,0.0,0.0,1.0
+b_tv_international3,0.0,0.0,0.0,1.0
+Movies By Language Chinese Synopsis,0.0,0.0,0.0,1.0
+Hospitality Welcome/Language Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_audio_descriptive1,0.0,0.0,0.0,1.0
+eX1 Kinai Welcome Screensaver Interstitial 4,0.0,0.0,0.0,1.0
+b_pause_tv_comedy,0.0,338.84,0.0,0.0198
+Spanish Movies Banner Zone,0.0,0.0,0.0,1.0
+Showtime TV,0.0,0.0,0.0,1.0
+Video Player,0.0,0.0,0.0,1.0
+tvtapdestinations,0.0,0.0,0.0,1.0
+Audible,0.0,0.0,0.0,1.0
+Music Jazz & Blues Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_audio_descriptive1,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_descriptive_audio3,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_descriptive_audio2,0.0,0.0,0.0,1.0
+Movies documentaries,0.0,0.0,0.0,1.0
+Live Text News Header Banner,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_hindi_subtitles,0.0,0.0,0.0,1.0
+Destino Lisbon,0.0,0.0,0.0,1.0
+b_tv_german3,0.0,0.0,0.0,1.0
+Rob Has a Podcast,0.0,0.0,0.0,1.0
+TV,0.0,0.0,0.0,1.0
+b_tv_french1,0.0,0.0,0.0,1.0
+Music Kids,0.0,0.0,0.0,1.0
+b_movies_movies_with_greek_subtitles2,0.0,0.0,0.0,1.0
+eX3 MOVIE SUB-CATEGORY DIVIDER 5 ,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_audio_descriptive4,0.0,0.0,0.0,1.0
+Kids Movies Animation,0.0,0.0,0.0,1.0
+b_pause_tv_stand-up_comedy,0.0,338.84,0.0,1.0
+b_tv_korean4,0.0,0.0,0.0,1.0
+b_pause_movies_fourth_goal,0.0,338.84,0.0,1.0
+b_pause_tv_sports,0.0,338.84,0.0,0.0038
+b_pause_movies_subtitled/captioned_movies,0.0,338.84,0.0,0.0008
+Screensaver3,0.0,0.0,0.0,1.0
+b_pause_featured_spotify,0.0,0.0,0.0,1.0
+b_featured_apple_tv3,0.0,0.0,0.0,1.0
+b_tv_tv_under_one_hour4,0.0,0.0,0.0,1.0
+b_featured_tv_shows_from_max2,0.0,23143.74,0.0,1.0
+Movies By Language Italiano,0.0,0.0,0.0,1.0
+b_pause_tv_subtitled/captioned_tv,0.0,338.84,0.0,0.0004
+b_tv_tv_with_spanish_subtitles4,0.0,0.0,0.0,1.0
+b_tv_tv_under_half_hour1,0.0,338.84,0.0,1.0
+b_tv_tv_with_spanish_subtitles2,0.0,0.0,0.0,1.0
+Videos Main Pop-Up Banner,0.0,0.0,0.0,1.0
+b_tv_spanish4,0.0,0.0,0.0,1.0
+b_pause_featured_spotify_video_podcasts,0.0,338.84,0.0,1.0
+Rosetta Stone,0.0,0.0,0.0,1.0
+Magazine,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_audio_descriptive3,0.0,0.0,0.0,1.0
+b_tv_english3,0.0,0.0,0.0,1.0
+All Audio Banner Zone,0.0,0.0,0.0,1.0
+eX2 Welcome Screensaver Interstitial 2,0.0,0.0,0.0,1.0
+Movies Landing Screen Banner Rotating 2,0.0,0.0,0.0,1.0
+Skillshare,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(s)_descriptive_audio3,0.0,0.0,0.0,1.0
+b_movies_sci-fi_fantasy3,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_descriptive_audio3,0.0,0.0,0.0,1.0
+Music Mandarin Hits Small Poster,0.0,0.0,0.0,1.0
+TV - Closed Caption,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_japanese_subtitles,0.0,0.0,0.0,1.0
+b_featured_veeps2,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_audio_descriptive4,0.0,0.0,0.0,1.0
+b_pause_movies_festival_favorites,0.0,338.84,0.0,1.0
+b_movies_film_festival_faves1,0.0,0.0,0.0,1.0
+Jazz Audio Banner Zone,0.0,0.0,0.0,1.0
+b_fb_breakfast4,0.0,0.0,0.0,1.0
+b_movies_french3,0.0,0.0,0.0,1.0
+b_tv_emmy_award_nominees2,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_spanish_audio_descriptive,0.0,0.0,0.0,1.0
+Movies Landing Screen Banner Rotating 4,0.0,0.0,0.0,1.0
+Tv Cartoons Synopsis,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_hindi_subtitles,0.0,0.0,0.0,1.0
+b_notification_center4,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_subtitles1,0.0,0.0,0.0,1.0
+b_pause_tv_lifestyle_reality,0.0,338.84,0.0,0.0013
+b_pause_tv_tv_with_hebrew_descriptive_audio,0.0,0.0,0.0,1.0
+Music World,0.0,0.0,0.0,1.0
+b_home2_verified,0.0,0.0,0.0,1.0
+b_tv_portuguese1,0.0,0.0,0.0,1.0
+Kids,0.0,0.0,0.0,1.0
+NEXT - TV - divider large,0.0,0.0,0.0,1.0
+b_tv_most_watched_tv_20254,0.0,0.0,0.0,1.0
+b_pause_tv_stand_up_comedy,0.0,342.55,0.0,1.0
+b_featured_video_podcasts_from_spotify1,0.0,0.0,0.0,1.0
+b_movies_subtitled/captioned_movies3,0.0,0.0,0.0,1.0
+TV Sports,0.0,0.0,0.0,1.0
+Movies Drama,0.0,0.0,0.0,1.0
+b_pause_featured_podcasts_from_max,0.0,0.0,0.0,1.0
+b_movies_tricks_treats1,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_subtitles2,0.0,0.0,0.0,1.0
+Italian Movies Banner Zone,0.0,0.0,0.0,1.0
+Familiar Favorites,0.0,0.0,0.0,1.0
+Tv Others Synopsis,0.0,0.0,0.0,1.0
+b_tv_sci-fi1,0.0,0.0,0.0,1.0
+b_movies_tricks_treats2,0.0,5510.87,0.0,1.0
+Nature & Science,0.0,0.0,0.0,1.0
+Audio Landing Screen Banner Rotating 2,0.0,0.0,0.0,1.0
+b_pause_tv_travel,0.0,0.0,0.0,1.0
+Japanese Movies Banner Zone,0.0,0.0,0.0,1.0
+b_retail_tech_travel_gadgets2,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_subtitles2,0.0,0.0,0.0,1.0
+b_pause_featured_hbo_max,0.0,0.0,0.0,1.0
+Audio Landing Screen Banner Rotating Opened 2,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_descriptive_audio3,0.0,0.0,0.0,1.0
+b_movies_movies_with_french_descriptive_audio4,0.0,0.0,0.0,1.0
+b_pause_tv_french,0.0,0.0,0.0,1.0
+b_pause_tv_arabic,0.0,0.0,0.0,1.0
+R&B/Blues Audio Banner Zone,0.0,0.0,0.0,1.0
+TV Destinos,0.0,0.0,0.0,1.0
+Weather,0.0,0.0,0.0,1.0
+b_movies_musical_masterpieces2,0.0,2318.23,0.0,1.0
+Movies By Language Swedish,0.0,0.0,0.0,1.0
+b_movies_dutch4,0.0,0.0,0.0,1.0
+b_movies_mob_movies1,0.0,41589.21,0.0,1.0
+b_pause_movies_a24,0.0,338.84,0.0,0.0089
+b_movies_festival_favorites4,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_chinese_(s)_descriptive_audio,0.0,0.0,0.0,1.0
+b_featured_concerts3,0.0,0.0,0.0,1.0
+Portuguese Movies Banner Zone,0.0,0.0,0.0,1.0
+TV On Stage,0.0,0.0,0.0,1.0
+b_tv_stand_up_comedy3,0.0,0.0,0.0,1.0
+b_pause_movies_korean,0.0,338.84,0.0,0.0034
+b_tv_greek2,0.0,0.0,0.0,1.0
+Music Classic,0.0,0.0,0.0,1.0
+b_movies_movies_with_hebrew_descriptive_audio1,0.0,0.0,0.0,1.0
+Ice Age Shorts TV Banner Zone,0.0,0.0,0.0,1.0
+b_movies_greek3,0.0,0.0,0.0,1.0
+Tv Others,0.0,0.0,0.0,1.0
+b_pause_playlists,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_descriptive_audio4,0.0,0.0,0.0,1.0
+Movies Harry Potter,0.0,0.0,0.0,1.0
+eX1/eX3 High Capacity Welcome Screensaver Interstitial 2,0.0,0.0,0.0,1.0
+b_featured_a244,0.0,0.0,0.0,1.0
+b_pause_tv_veeps,0.0,0.0,0.0,1.0
+b_tv_sci-fi4,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_audio_descriptive1,0.0,0.0,0.0,1.0
+Kids Movies Latest Releases,0.0,0.0,0.0,1.0
+eX1 Kinai Welcome Screensaver Interstitial 2,0.0,0.0,0.0,1.0
+B787 CD AdPool - Language Video Interstitial,0.0,0.0,0.0,1.0
+b_audio_vevo_music_videos1,0.0,0.0,0.0,1.0
+Music > Latin,0.0,0.0,0.0,1.0
+eX3 MUSIC SUB-CATEGORY DIVIDER 1,0.0,0.0,0.0,1.0
+b_tv_documentary4,0.0,0.0,0.0,1.0
+b_featured_hbo_max_movies2,0.0,0.0,0.0,1.0
+Movies Biography,0.0,0.0,0.0,1.0
+American Radio Audio Banner Zone,0.0,0.0,0.0,1.0
+b_movies_romance3,0.0,0.0,0.0,1.0
+b_movies_thriller3,0.0,0.0,0.0,1.0
+b_pause_tv_new_onboard,0.0,425.36,0.0,0.0615
+b_tv_travel1,0.0,0.0,0.0,1.0
+b_tv_apple_tv+2,0.0,29654.85,0.0,1.0
+Kids Movies All,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_descriptive_audio4,0.0,0.0,0.0,1.0
+Roots,0.0,0.0,0.0,1.0
+b_pause_playlists_from_spotify,0.0,0.0,0.0,1.0
+Survey Communicate Banner Zone,0.0,0.0,0.0,1.0
+b_movies_chills_thrills1,0.0,694.43,0.0,0.0002
+b_tv_tv_with_arabic_descriptive_audio2,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_audio_descriptive3,0.0,0.0,0.0,1.0
+b_audio_vevo_music_videos4,0.0,0.0,0.0,1.0
+b_pause_spotify_podcasts,0.0,0.0,0.0,1.0
+b_movies_movies_with_dutch_subtitles1,0.0,0.0,0.0,1.0
+Movies By Language Portuguese Synopsis,0.0,0.0,0.0,1.0
+TAP Miles&Go > Advantages (AIR-182),0.0,0.0,0.0,1.0
+b_featured_veeps:_live_music3,0.0,0.0,0.0,1.0
+All-HOME-My Flight-TAP Destinations-TAP Destinations,0.0,0.0,0.0,1.0
+b_retail_travel_accessories2,0.0,0.0,0.0,1.0
+b_movies_drama4,0.0,0.0,0.0,1.0
+b_movies_blockbusters4,0.0,0.0,0.0,1.0
+b_featured_hbo_max3,0.0,0.0,0.0,1.0
+TV Landing Screen Banner Rotating 3,0.0,0.0,0.0,1.0
+Destination,0.0,0.0,0.0,1.0
+Kids Maps,0.0,0.0,0.0,1.0
+b_movies_'tis_the_season4,0.0,0.0,0.0,1.0
+b_audio_podcasts4,0.0,0.0,0.0,1.0
+For you,0.0,0.0,0.0,1.0
+Videos Subdivider 7 Banner,0.0,0.0,0.0,1.0
+Superpowered Cinema,0.0,0.0,0.0,1.0
+b_fb_alcoholic1,0.0,338.84,0.0,1.0
+b_movies_movies_with_italian_subtitles2,0.0,0.0,0.0,1.0
+Destino NY,0.0,0.0,0.0,1.0
+b_movies_italian4,0.0,0.0,0.0,1.0
+Movies By Language French,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_japnese_subtitles,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_descriptive_audio3,0.0,0.0,0.0,1.0
+b_pause_tv_german,0.0,0.0,0.0,1.0
+ Home Page banner 2,0.0,0.0,0.0,1.0
+Main Menu Subdivider 4 Banner,0.0,0.0,0.0,1.0
+b_movies_movies_with_french_descriptive_audio2,0.0,0.0,0.0,1.0
+b_tv_french2,0.0,0.0,0.0,1.0
+Movies By Language Chinese,0.0,0.0,0.0,1.0
+b_movies_perfect_plane_movies4,0.0,0.0,0.0,1.0
+  Movies Award Focus Large Poster ,0.0,0.0,0.0,1.0
+b_tv_audio_described_tv4,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_subtitles4,0.0,0.0,0.0,1.0
+Favorite Movies Synopsis,0.0,0.0,0.0,1.0
+b_movies_movies_with_korean_descriptive_audio2,0.0,0.0,0.0,1.0
+Movies Main Pop-Up Banner,0.0,0.0,0.0,1.0
+b_tv_veeps:_live_music4,0.0,0.0,0.0,1.0
+b_movies_rock_solid4,0.0,0.0,0.0,1.0
+TV - Broadway,0.0,0.0,0.0,1.0
+b_featured_a24_podcasts4,0.0,0.0,0.0,1.0
+b_fb_snackboxes4,0.0,0.0,0.0,1.0
+b_retail_travel_accessories3,0.0,0.0,0.0,1.0
+b_audio_spotify4,0.0,0.0,0.0,1.0
+b_movies_movies_with_arabic_descriptive_audio3,0.0,0.0,0.0,1.0
+All-MENU-MOVIES-Portuguese Movies,0.0,0.0,0.0,1.0
+Electronic,0.0,0.0,0.0,1.0
+b_tv_full_seasons3,0.0,0.0,0.0,1.0
+b_movies_animation4,0.0,0.0,0.0,1.0
+connectedwifi,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_japanese_subtitles,0.0,0.0,0.0,1.0
+Musical Medleys,0.0,0.0,0.0,1.0
+b_movies_movies_with_greek_subtitles3,0.0,0.0,0.0,1.0
+b_movies_movies_with_portuguese_descriptive_audio4,0.0,0.0,0.0,1.0
+Music Hip - Hop,0.0,0.0,0.0,1.0
+R&B,0.0,0.0,0.0,1.0
+ARC Map Interstitial,0.0,0.0,0.0,1.0
+b_movies_movies_with_greek_descriptive_audio3,0.0,0.0,0.0,1.0
+Before Main Menu,0.0,0.0,0.0,1.0
+#FRIENDS30,0.0,0.0,0.0,1.0
+One Replubic TV Banner Zone,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_chinese_(t)_subtitles,0.0,0.0,0.0,1.0
+All-MENU-TV-WEB TRENDS,0.0,0.0,0.0,1.0
+b_movies_movies_with_italian_subtitles4,0.0,0.0,0.0,1.0
+b_movies_perfect_plane_movies3,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_audio_descriptive2,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_subtitles1,0.0,0.0,0.0,1.0
+b_tv_travel2,0.0,0.0,0.0,1.0
+eX3 GAMES SUB-CATEGORY DIVIDER 3,0.0,0.0,0.0,1.0
+Movies Header Banner,0.0,0.0,0.0,1.0
+eX2 MUSIC SUB-CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+b_tv_popular_tv1,0.0,0.0,0.0,1.0
+Arab American Stories,0.0,0.0,0.0,1.0
+Summer of Sports,0.0,0.0,0.0,1.0
+eX1/eX3 High Capacity Welcome Screensaver Interstitial 1,0.0,0.0,0.0,1.0
+b_pause_movies_dutch,0.0,342.55,0.0,1.0
+TV Endel,0.0,0.0,0.0,1.0
+b_movies_'tis_the_season3,0.0,54025.43,0.0,1.0
+b_pause_tv_tv_with_japanese_audio_descriptive,0.0,0.0,0.0,1.0
+b_fb_breakfast3,0.0,0.0,0.0,1.0
+b_featured_hbo_max_podcasts2,0.0,0.0,0.0,1.0
+eX1/eX3 High Capacity Welcome Screensaver Interstitial 4,0.0,0.0,0.0,1.0
+Games,0.0,0.0,0.0,1.0
+Movies Landing Screen Banner Rotating Opened 3,0.0,0.0,0.0,1.0
+b_featured_podcasts_from_a241,0.0,0.0,0.0,1.0
+Favorite TV,0.0,0.0,0.0,1.0
+Survey,0.0,0.0,0.0,1.0
+b_tv_new_onboard3,0.0,0.0,0.0,1.0
+b_featured_podcasts_from_a242,0.0,0.0,0.0,1.0
+TV Relax Mood,0.0,0.0,0.0,1.0
+b_pause_tv_short_form,0.0,338.84,0.0,1.0
+b_tv_german2,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_arabic_descriptive_audio,0.0,0.0,0.0,1.0
+eX3 MOVIES MAIN LANDING DISMISSIBLE,0.0,0.0,0.0,1.0
+b_movies_drama3,0.0,0.0,0.0,1.0
+b_tv_apple_tv4,0.0,0.0,0.0,1.0
+Special Interest TV Banner Zone,0.0,0.0,0.0,1.0
+TV Web Trends,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_korean_subtitles,0.0,338.84,0.0,1.0
+b_movies_english4,0.0,0.0,0.0,1.0
+b_tv_french4,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_greek_descriptive_audio,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_chinese_(s)_subtitles,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_french_subtitles,0.0,338.84,0.0,0.0008
+b_featured_hbo_max_tv_shows4,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_italian_descriptive_audio,0.0,0.0,0.0,1.0
+Arabic Cinema,0.0,0.0,0.0,1.0
+eX3 GAMES SUB-CATEGORY DIVIDER 5,0.0,0.0,0.0,1.0
+All-MENU-MOVIES-SUPER HEROES,0.0,0.0,0.0,1.0
+b_featured_stand-up4,0.0,0.0,0.0,1.0
+b_pause_tv_chinese_(traditional),0.0,338.84,0.0,1.0
+b_tv_sci-fi2,0.0,0.0,0.0,1.0
+NEXT - TV - inline card,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_subtitles3,0.0,0.0,0.0,1.0
+TV Documentaries ,0.0,0.0,0.0,1.0
+Movies - Chinese,0.0,0.0,0.0,1.0
+b_tv_hindi4,0.0,0.0,0.0,1.0
+Music Memories,0.0,0.0,0.0,1.0
+Movies By Language Japanese Synopsis,0.0,0.0,0.0,1.0
+Games 2D Synopsis,0.0,0.0,0.0,1.0
+b_fb_dinner1,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_subtitles4,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_descriptive_audio1,0.0,0.0,0.0,1.0
+Paramount Scares,0.0,0.0,0.0,1.0
+b_pause_movies_new_releases,0.0,12578.29,0.0,0.0331
+b_tv_tv_with_spanish_subtitles3,0.0,0.0,0.0,1.0
+b_audio_playlists3,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_subtitles4,0.0,0.0,0.0,1.0
+b_welcome2,0.0,59297.23,0.0,0.4713
+Hallmark Channel Holiday TV Banner,0.0,0.0,0.0,1.0
+b_tv_united_videos3,0.0,0.0,0.0,1.0
+b_tv_short_form3,0.0,0.0,0.0,1.0
+b_movies_indie4,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_portuguese_subtitles,0.0,0.0,0.0,1.0
+b_tv_international4,0.0,0.0,0.0,1.0
+b_movies_movies_with_greek_descriptive_audio4,0.0,0.0,0.0,1.0
+Audio Subdivider 1 Banner,0.0,0.0,0.0,1.0
+b_pause_tv_spotify_podcasts,0.0,338.84,0.0,0.0004
+b_movies_real_to_reel2,0.0,0.0,0.0,1.0
+American Stories TV Banner Zone,0.0,0.0,0.0,1.0
+b_tv_hindi3,0.0,0.0,0.0,1.0
+b_tv_chinese_(traditional)1,0.0,0.0,0.0,1.0
+b_tv_audio_described_tv3,0.0,0.0,0.0,1.0
+tvpractiveportugese,0.0,0.0,0.0,1.0
+b_movies_portuguese4,0.0,0.0,0.0,1.0
+Tv Sports,0.0,0.0,0.0,1.0
+b_movies_french4,0.0,0.0,0.0,1.0
+b_pause_featured_concerts,0.0,338.84,0.0,1.0
+Magazine Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_subtitles4,0.0,0.0,0.0,1.0
+b_fp3d_autoplay,0.0,56659.95,0.0,2.4069
+Video Interstitial - LiveTV,0.0,0.0,0.0,1.0
+b_pause_featured_veeps:_live_music,0.0,0.0,0.0,1.0
+b_movies_movies_with_german_subtitles4,0.0,0.0,0.0,1.0
+b_tv_english4,0.0,0.0,0.0,1.0
+b_tv_japanese4,0.0,0.0,0.0,1.0
+AdPool eX1/eX3 High Capacity Welcome Screensaver Interstitial 5,0.0,0.0,0.0,1.0
+Videos Subdivider 5 Banner,0.0,0.0,0.0,1.0
+b_movies_movies_with_hindi_subtitles2,0.0,0.0,0.0,1.0
+AdPool eX3 Welcome Screensaver Interstitial 4,0.0,0.0,0.0,1.0
+Asian American & Pacific Islander Stories,0.0,0.0,0.0,1.0
+b_movies_movies_with_dutch_subtitles4,0.0,0.0,0.0,1.0
+The Bonnie Channel Movies Zone,0.0,0.0,0.0,1.0
+Condé Nast,0.0,0.0,0.0,1.0
+Musical,0.0,0.0,0.0,1.0
+b_featured_stand-up_from_veeps1,0.0,2318.23,0.0,1.0
+TV All ,0.0,0.0,0.0,1.0
+eX3 VIDEOS DIVIDER 3,0.0,0.0,0.0,1.0
+b_featured_hbo_max_podcasts3,0.0,0.0,0.0,1.0
+aix26_long,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_dutch_subtitles,0.0,0.0,0.0,1.0
+Latin Showcase TV Banner Zone,0.0,0.0,0.0,1.0
+b_tv_most_watched_tv_20253,0.0,0.0,0.0,1.0
+Sci-Fi & Fantasy Movies,0.0,0.0,0.0,1.0
+b_movies_movies_with_japnese_subtitles1,0.0,0.0,0.0,1.0
+b_featured_tv-series_from_a242,0.0,0.0,0.0,1.0
+Music Fado ,0.0,0.0,0.0,1.0
+b_tv_veeps1,0.0,342.55,0.0,1.0
+b_movies_movies_with_spanish_subtitles4,0.0,0.0,0.0,1.0
+TV > GAME OF THRONES,0.0,0.0,0.0,1.0
+TAP Air Portugal > Wine Experience (AIR-182),0.0,0.0,0.0,1.0
+Map Banner 2,0.0,0.0,0.0,1.0
+b_tv_spotify_podcasts3,0.0,0.0,0.0,1.0
+b_movies_animation2,0.0,0.0,0.0,1.0
+b_pause_film_festival_faves,0.0,0.0,0.0,1.0
+b_movies_movies_with_arabic_descriptive_audio2,0.0,0.0,0.0,1.0
+b_pause_tv_hebrew,0.0,0.0,0.0,1.0
+b_tv_hebrew1,0.0,0.0,0.0,1.0
+Earth Day TV,0.0,0.0,0.0,1.0
+b_movies_movies_with_german_subtitles3,0.0,0.0,0.0,1.0
+b_movies_movies_with_portuguese_descriptive_audio3,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_descriptive_audio1,0.0,0.0,0.0,1.0
+Favorite Music Synopsis,0.0,0.0,0.0,1.0
+b_fb_lunch2,0.0,0.0,0.0,1.0
+Portuguese Cinema,0.0,0.0,0.0,1.0
+b_movies_all_(a-z)3,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_audio_descriptive1,0.0,0.0,0.0,1.0
+TV - Black History Month,0.0,0.0,0.0,1.0
+Main Menu Header Banner,0.0,0.0,0.0,1.0
+b_featured_hbo_max_tv_shows3,0.0,0.0,0.0,1.0
+TAP miles go about,0.0,0.0,0.0,1.0
+b_welcome1,0.0,130293.76,0.0,0.2245
+b_movies_movies_with_chinese_(s)_subtitles3,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_subtitles2,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_drama3,0.0,0.0,0.0,1.0
+Movies - Closed Caption,0.0,0.0,0.0,1.0
+Entertainment ,0.0,0.0,0.0,1.0
+NEXT - Audio - divider small right,0.0,0.0,0.0,1.0
+Home Page Carousel 3 (Position 5),0.0,0.0,0.0,1.0
+b_pause_movies_japanese,0.0,338.84,0.0,0.0004
+b_pause_tv_documentary,0.0,338.84,0.0,0.0089
+b_pause_movies_through_her_lens,0.0,338.84,0.0,1.0
+ARC Map Interstitial Flare,0.0,0.0,0.0,1.0
+b_retail_luggage_packing_solutions1,0.0,0.0,0.0,1.0
+Home Page banner 2,0.0,0.0,0.0,1.0
+Videos Subdivider 4 Banner,0.0,0.0,0.0,1.0
+Classical,0.0,0.0,0.0,1.0
+b_tv_chinese_(simple)2,0.0,0.0,0.0,1.0
+Native American Heritage Month,0.0,0.0,0.0,1.0
+b_movies_top_secret:_spy_collection2,0.0,0.0,0.0,1.0
+b_movies_most_watched_movies_20252,0.0,338.84,0.0,1.0
+eX3 VIDEOS DIVIDER 5,0.0,0.0,0.0,1.0
+b_featured_movies_from_hbo_max1,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_french_subtitles,0.0,0.0,0.0,1.0
+  Movies by Genre Large Poster ,0.0,0.0,0.0,1.0
+Drama Movies Banner Zone,0.0,0.0,0.0,1.0
+Music Rock & Pop Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_audio_descriptive1,0.0,0.0,0.0,1.0
+NEXT - Audio - divider small left,0.0,0.0,0.0,1.0
+Movies portuguese short film,0.0,0.0,0.0,1.0
+b_movies_movies_with_italian_descriptive_audio2,0.0,0.0,0.0,1.0
+Comedy Movies Banner Zone,0.0,0.0,0.0,1.0
+b_tv_spotify_podcasts4,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(s)_subtitles2,0.0,0.0,0.0,1.0
+b_home_r4b_1,0.0,907.19,0.0,0.1011
+b_tv_dutch4,0.0,0.0,0.0,1.0
+b_movies_movies_with_italian_subtitles1,0.0,0.0,0.0,1.0
+kidstvtv,0.0,0.0,0.0,1.0
+b_featured_movies_from_a241,0.0,0.0,0.0,1.0
+TAP Miles&Go > About (AIR-182),0.0,0.0,0.0,1.0
+b_movies_documentary4,0.0,0.0,0.0,1.0
+b_tv_comedy4,0.0,0.0,0.0,1.0
+Videos Banner 1,0.0,0.0,0.0,1.0
+Movies Subdivider 9 Banner,0.0,0.0,0.0,1.0
+Discovery TV Banner Zone,0.0,0.0,0.0,1.0
+TV Discover Portugal,0.0,0.0,0.0,1.0
+Asian American & Pacific Islander Stories Movies,0.0,0.0,0.0,1.0
+b_tv_italian4,0.0,0.0,0.0,1.0
+obé Fitness,0.0,0.0,0.0,1.0
+All-MENU-TV-11.22.63,0.0,0.0,0.0,1.0
+All-MENU-TV-BIG LITTLE LIES,0.0,0.0,0.0,1.0
+b_fb_lunch3,0.0,0.0,0.0,1.0
+b_movies_sports3,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_japanese_descriptive_audio,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_spanish_subtitles,0.0,0.0,0.0,1.0
+b_pause_tv_tv_under_a_half_hour,0.0,338.84,0.0,0.0118
+b_movies_musical_masterpieces1,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_audio_descriptive4,0.0,0.0,0.0,1.0
+b_pause_tv_audio_described_tv,0.0,0.0,0.0,1.0
+ARC Map Interstitial Take Off Power,0.0,0.0,0.0,1.0
+Movies By Language Finnish Synopsis,0.0,0.0,0.0,1.0
+b_pause_movies_styled_to_perfection,0.0,406.97,0.0,0.0621
+b_movies_award_contenders4,0.0,0.0,0.0,1.0
+Movies Category Hero 1 (Position 1) ,0.0,0.0,0.0,1.0
+TV Our Favorites,0.0,0.0,0.0,1.0
+b_tv_korean3,0.0,0.0,0.0,1.0
+Latin American Cinema,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_audio_descriptive4,0.0,0.0,0.0,1.0
+Movies Family,0.0,0.0,0.0,1.0
+b_pause_tv_apple_tv+,0.0,0.0,0.0,1.0
+b_concerts_live_events1,0.0,0.0,0.0,1.0
+Fatherly Love Movies,0.0,0.0,0.0,1.0
+b_pause_audiobooks,0.0,0.0,0.0,1.0
+b_pause_featured_hbo_max_podcasts,0.0,0.0,0.0,1.0
+b_pause_movies_tricks_treats,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_descriptive_audio1,0.0,0.0,0.0,1.0
+Movies By Language Arabic,0.0,0.0,0.0,1.0
+b_featured_movies_from_a242,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_subtitles4,0.0,0.0,0.0,1.0
+b_movies_'tis_the_season1,0.0,0.0,0.0,1.0
+b_movies_rock_solid2,0.0,0.0,0.0,1.0
+b_pause_movies_real_to_reel,0.0,2318.23,0.0,1.0
+b_pause_concerts_and_live_events,0.0,0.0,0.0,1.0
+b_pause_tv_united_videos,0.0,338.84,0.0,1.0
+b_movies_movies_with_korean_descriptive_audio4,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_descriptive_audio4,0.0,0.0,0.0,1.0
+b_movies_chills_thrills2,0.0,0.0,0.0,1.0
+All-HOME-Kids-Movies-Kids,0.0,0.0,0.0,1.0
+b_movies_movies_with_dutch_descriptive_audio2,0.0,0.0,0.0,1.0
+Asian Cinema,0.0,0.0,0.0,1.0
+Music > Easy Listening,0.0,0.0,0.0,1.0
+b_movies_most_watched_movies_20254,0.0,0.0,0.0,1.0
+Destino Boston,0.0,0.0,0.0,1.0
+NEXT - Movie - inline card,0.0,0.0,0.0,1.0
+"Black Legacies, Black Futures",0.0,0.0,0.0,1.0
+b_tv_concerts_live_events4,0.0,0.0,0.0,1.0
+TV Africa,0.0,0.0,0.0,1.0
+Max,0.0,0.0,0.0,1.0
+b_movies_dutch2,0.0,0.0,0.0,1.0
+eX3 GAMES MAIN LANDING DISMISSIBLE,0.0,0.0,0.0,1.0
+b_tv_italian3,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_hindi_audio_descriptive,0.0,0.0,0.0,1.0
+b_fb_landing,0.0,5183.05,0.0,0.1162
+b_movies_arabic4,0.0,0.0,0.0,1.0
+b_pause_tv_korean,0.0,0.0,0.0,1.0
+b_pause_movies_italian,0.0,338.84,0.0,0.0017
+eX1/eX3 High Capacity Welcome Screensaver Interstitial 5,0.0,0.0,0.0,1.0
+TV - Crackle,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_korean_subtitles,0.0,0.0,0.0,1.0
+b_tv_arabic2,0.0,0.0,0.0,1.0
+b_tv_apple_tv3,0.0,0.0,0.0,1.0
+Movies Our Favorites,0.0,0.0,0.0,1.0
+b_movies_movies_with_german_descriptive_audio3,0.0,0.0,0.0,1.0
+Classics TV Banner Zone,0.0,0.0,0.0,1.0
+Main Menu Subdivider 3 Banner,0.0,0.0,0.0,1.0
+b_pause_tv_japanese,0.0,0.0,0.0,1.0
+kids movies Kids,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(s)_descriptive_audio4,0.0,0.0,0.0,1.0
+Welcome Screen (Language Screen),0.0,0.0,0.0,1.0
+Movies Documentary ,0.0,0.0,0.0,1.0
+b_pause_featured_tv_shows_from_hbo_max,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(t)_subtitles4,0.0,0.0,0.0,1.0
+b_tv_box_set4,0.0,0.0,0.0,1.0
+Marvel vs. DC,0.0,0.0,0.0,1.0
+b_fb_snacks3,0.0,0.0,0.0,1.0
+b_fb_non-alcoholic3,0.0,0.0,0.0,1.0
+TV mindvalley,0.0,0.0,0.0,1.0
+Home > About Us Carousel 2,0.0,0.0,0.0,1.0
+Movies By Language Italiano Synopsis,0.0,0.0,0.0,1.0
+b_movies_movies_with_japanese_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_descriptive_audio2,0.0,0.0,0.0,1.0
+b_featured_audiobooks_from_spotify2,0.0,0.0,0.0,1.0
+Popular on American,0.0,0.0,0.0,1.0
+Sports Movies Banner Zone,0.0,0.0,0.0,1.0
+b_tv_dutch3,0.0,0.0,0.0,1.0
+b_tv_three_perfect_days4,0.0,0.0,0.0,1.0
+Back to School,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_audio_descriptive3,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_subtitles4,0.0,0.0,0.0,1.0
+Movies By Language Estonian,0.0,0.0,0.0,1.0
+b_tv_hindi1,0.0,0.0,0.0,1.0
+b_pause_movies_international,0.0,338.84,0.0,0.0034
+Korean Movies Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_french_descriptive_audio4,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_descriptive_audio4,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_italian_subtitles,0.0,0.0,0.0,1.0
+b_movies_japanese3,0.0,0.0,0.0,1.0
+b_featured_tv_shows_from_max1,0.0,49190.37,0.0,1.0
+b_fb_lunch4,0.0,0.0,0.0,1.0
+TAP Air Portugal About,0.0,0.0,0.0,1.0
+Podcast Fiction,0.0,0.0,0.0,1.0
+eX1 Kinai - Language Video Interstitial,0.0,0.0,0.0,1.0
+b_retail_luggage_packing_solutions4,0.0,0.0,0.0,1.0
+Audiobook Romance,0.0,0.0,0.0,1.0
+Kids Cartoons,0.0,0.0,0.0,1.0
+b_tv_classic_tv4,0.0,0.0,0.0,1.0
+b_featured_apple_tv_shows4,0.0,0.0,0.0,1.0
+Movies - Thriller,0.0,0.0,0.0,1.0
+WISP Banner 2,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_descriptive_audio2,0.0,0.0,0.0,1.0
+b_movies_movies_with_hindi_subtitles4,0.0,0.0,0.0,1.0
+b_fb_alcoholic2,0.0,338.84,0.0,0.0008
+True Crime,0.0,0.0,0.0,1.0
+b_tv_tv_with_japanese_audio_descriptive1,0.0,0.0,0.0,1.0
+French Movies Banner Zone,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_french_descriptive_audio,0.0,0.0,0.0,1.0
+eX3 TELEVISION SUB-CATEGORY DIVIDER 3,0.0,0.0,0.0,1.0
+b_pause_movies_vision_voice:_spike_lee,0.0,338.84,0.0,1.0
+eX2 non-GCS Kinai Welcome Screensaver Interstitial 1,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_korean_descriptive_audio,0.0,0.0,0.0,1.0
+eX2 MUSIC SUB-CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_subtitles1,0.0,0.0,0.0,1.0
+eX2 MAIN MENU - TV POSTER,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_audio_descriptive4,0.0,0.0,0.0,1.0
+Movies Family Synopsis,0.0,0.0,0.0,1.0
+b_featured_podcasts_from_spotify1,0.0,0.0,0.0,1.0
+b_pause_audiobooks_from_spotify,0.0,0.0,0.0,1.0
+b_pause_tv_portuguese,0.0,0.0,0.0,1.0
+b_tv_stand_up_comedy2,0.0,342.55,0.0,1.0
+Kids TV Kids,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_descriptive_audio3,0.0,0.0,0.0,1.0
+Apple TV+,0.0,0.0,0.0,1.0
+AdPool eX3 Welcome Screensaver Interstitial 3,0.0,0.0,0.0,1.0
+connectedphone,0.0,0.0,0.0,1.0
+b_tv_portuguese3,0.0,0.0,0.0,1.0
+Phone,0.0,0.0,0.0,1.0
+Hindi Movies Banner Zone,0.0,0.0,0.0,1.0
+Music Latin Mood  ,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_italian_audio_descriptive,0.0,0.0,0.0,1.0
+  Movies by Soundtrack Large Poster ,0.0,0.0,0.0,1.0
+b_retail_tech_travel_gadgets1,0.0,0.0,0.0,1.0
+b_movies_movies_with_hindi_descriptive_audio3,0.0,0.0,0.0,1.0
+b_movies_classics4,0.0,0.0,0.0,1.0
+Movies Sci-Fi ,0.0,0.0,0.0,1.0
+IFE Seatback Welcome Screensaver Interstitial 3,0.0,0.0,0.0,1.0
+b_pause_featured_apple_tv+,0.0,0.0,0.0,1.0
+  Movies World Cinema Large Poster ,0.0,0.0,0.0,1.0
+Movies By Language Russian,0.0,0.0,0.0,1.0
+Videos Subdivider 10 Banner,0.0,0.0,0.0,1.0
+TV HBO,0.0,0.0,0.0,1.0
+TV > DESTINOS,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_subtitles2,0.0,0.0,0.0,1.0
+Action-Adventure Movies Banner Zone,0.0,0.0,0.0,1.0
+eX2 VIDEOS POSTER,0.0,0.0,0.0,1.0
+OM Takeoff Ad (Flight Script),0.0,0.0,0.0,1.0
+AdPool eX1/eX3 High Capacity Welcome Screensaver Interstitial 1,0.0,0.0,0.0,1.0
+b_tv_audio_described_tv2,0.0,0.0,0.0,1.0
+Connected,0.0,0.0,0.0,1.0
+eX2 non-GCS Kinai Welcome Screensaver Interstitial 4,0.0,0.0,0.0,1.0
+b_featured_veeps:_live_music4,0.0,0.0,0.0,1.0
+b_movies_vision_voice:_spike_lee4,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(s)_subtitles1,0.0,0.0,0.0,1.0
+Movies Golden Globe Large Poster,0.0,0.0,0.0,1.0
+Air Europa,0.0,0.0,0.0,1.0
+Home Page banner 1,0.0,0.0,0.0,1.0
+b_pause_movies_comedy,0.0,406.97,0.0,0.0411
+b_audio_vevo_music_videos3,0.0,0.0,0.0,1.0
+Music All ,0.0,0.0,0.0,1.0
+b_movies_movies_with_japanese_subtitles4,0.0,0.0,0.0,1.0
+Kids Games,0.0,0.0,0.0,1.0
+Movies Subdivider 6 Banner,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_german_subtitles,0.0,338.84,0.0,1.0
+b_movies_movies_with_chinese_(s)_descriptive_audio1,0.0,0.0,0.0,1.0
+Americana Audio Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_audio_descriptive2,0.0,0.0,0.0,1.0
+b_tv_subtitled/captioned_tv3,0.0,0.0,0.0,1.0
+eX2 VIDEOS CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+eX3 MOVIE SUB-CATEGORY DIVIDER 3,0.0,0.0,0.0,1.0
+b_movies_vision_voice:_spike_lee3,0.0,0.0,0.0,1.0
+TV Landing Screen Banner Rotating 2,0.0,0.0,0.0,1.0
+b_pause_movies_chinese_(traditional),0.0,338.84,0.0,0.0004
+b_tv_tv_with_greek_audio_descriptive1,0.0,0.0,0.0,1.0
+b_movies_movies_with_german_descriptive_audio4,0.0,0.0,0.0,1.0
+b_pause_tv_dutch,0.0,338.84,0.0,1.0
+b_movies_movies_under_2_hours4,0.0,0.0,0.0,1.0
+b_tv_'tis_the_season1,0.0,56573.5,0.0,1.0
+eX2 VIDEOS DIVIDER 1,0.0,0.0,0.0,1.0
+b_pause_movies_indie,0.0,0.0,0.0,1.0
+b_fb_non-alcoholic4,0.0,0.0,0.0,1.0
+Movies By Language Polish Synopsis,0.0,0.0,0.0,1.0
+Movies - English Descriptive Audio,0.0,0.0,0.0,1.0
+aix26_mainbanner,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_subtitles2,0.0,0.0,0.0,1.0
+b_pause_movies_action,0.0,399.23,0.0,0.0379
+Video1,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_subtitles1,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_subtitles3,0.0,0.0,0.0,1.0
+Pride Channel Movies,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_dutch_descriptive_audio,0.0,0.0,0.0,1.0
+Alternative Audio Banner Zone,0.0,0.0,0.0,1.0
+b_tv_tv_with_italian_descriptive_audio2,0.0,0.0,0.0,1.0
+b_movies_movies_with_japanese_descriptive_audio4,0.0,0.0,0.0,1.0
+b_home_r4b_2,0.0,547.99,0.0,0.0665
+b_pause_movies_french,0.0,338.84,0.0,0.0101
+b_tv_tv_with_korean_descriptive_audio1,0.0,0.0,0.0,1.0
+b_pause_tv_concerts_live_events,0.0,338.84,0.0,0.0076
+Hispanic Heritage Month,0.0,0.0,0.0,1.0
+Movies Blockbusters,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_chinese_(t)_descriptive_audio,0.0,0.0,0.0,1.0
+b_featured_spotify_playlists3,0.0,0.0,0.0,1.0
+Inflight Feelings Movies,0.0,0.0,0.0,1.0
+b_movies_portuguese3,0.0,0.0,0.0,1.0
+b_movies_chinese_(simple)1,0.0,0.0,0.0,1.0
+b_movies_movies_with_french_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_subtitles3,0.0,0.0,0.0,1.0
+b_pause_featured_spotify_playlists,0.0,0.0,0.0,1.0
+b_tv_greek4,0.0,0.0,0.0,1.0
+b_pause_tv_greek,0.0,0.0,0.0,1.0
+b_pause_tv_most_watched_tv_2025,0.0,47787.03,0.0,1.0
+b_movies_movies_with_hebrew_descriptive_audio3,0.0,0.0,0.0,1.0
+b_movies_audio_described_movies4,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_audio_descriptive4,0.0,0.0,0.0,1.0
+Kids Movies Drama,0.0,0.0,0.0,1.0
+Movies - The Bonnie Channel,0.0,0.0,0.0,1.0
+Live Text News Subdivider 1,0.0,0.0,0.0,1.0
+b_movies_movies_with_greek_subtitles1,0.0,0.0,0.0,1.0
+b_pause_movies_spanish,0.0,338.84,0.0,0.0097
+Homer by Begin,0.0,0.0,0.0,1.0
+b_pause_movies_'tis_the_season,0.0,0.0,0.0,1.0
+b_pause_tv_chinese_(simple),0.0,0.0,0.0,1.0
+Movies Landing Screen Banner Rotating Opened 1,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_audio_descriptive3,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_audio_descriptive4,0.0,0.0,0.0,1.0
+Movies Blockbusters Synopsis,0.0,0.0,0.0,1.0
+b_featured_concerts_from_veeps2,0.0,2318.23,0.0,1.0
+b_audio_vevo_music_videos2,0.0,0.0,0.0,1.0
+Victoria About,0.0,0.0,0.0,1.0
+Victoria,0.0,0.0,0.0,1.0
+b_pause_pixel_to_picture,0.0,0.0,0.0,1.0
+Kids Map,0.0,0.0,0.0,1.0
+Tv Series,0.0,0.0,0.0,1.0
+b_welcome9,0.0,77667.34,0.0,0.3448
+b_featured_stand-up3,0.0,0.0,0.0,1.0
+b_featured_a24_movies4,0.0,0.0,0.0,1.0
+b_movies_movies_with_japanese_descriptive_audio3,0.0,0.0,0.0,1.0
+Disney TV Banner Zone,0.0,0.0,0.0,1.0
+Kids Movies Action,0.0,0.0,0.0,1.0
+tvhbo,0.0,0.0,0.0,1.0
+b_movies_hebrew3,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_subtitles1,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_descriptive_audio2,0.0,0.0,0.0,1.0
+b_movies_trilogy_spotlight1,0.0,0.0,0.0,1.0
+b_pause_featured_stand-up_from_veeps,0.0,0.0,0.0,1.0
+TAP Miles&Go > Advantages (AIR-201),0.0,0.0,0.0,1.0
+Home Page Skyscraper,0.0,0.0,0.0,1.0
+Music,0.0,0.0,0.0,1.0
+b_featured_spotify_audiobooks3,0.0,0.0,0.0,1.0
+b_pause_featured_best_of_a24,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_chinese_(s)_audio_descriptive,0.0,0.0,0.0,1.0
+b_pause_featured_concerts_from_veeps,0.0,0.0,0.0,1.0
+b_pause_tv_tv_under_one_hour,0.0,338.84,0.0,0.0194
+b_featured_spotify_video_podcasts4,0.0,0.0,0.0,1.0
+b_movies_movies_with_dutch_subtitles2,0.0,0.0,0.0,1.0
+TV TAP Destination,0.0,0.0,0.0,1.0
+Music Others Synopsis,0.0,0.0,0.0,1.0
+b_featured_podcasts_from_max2,0.0,0.0,0.0,1.0
+b_fb_snackboxes2,0.0,0.0,0.0,1.0
+eX3 MUSIC SUB-CATEGORY DIVIDER 3,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_arabic_subtitles,0.0,338.84,0.0,1.0
+Connected > Wi-Fi and Connected > Phone (AIR-182),0.0,0.0,0.0,1.0
+b_tv_subtitled/captioned_tv4,0.0,0.0,0.0,1.0
+b_featured_hbo_max_movies1,0.0,0.0,0.0,1.0
+ARC Map Interstitial Go Around,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_hindi_descriptive_audio,0.0,0.0,0.0,1.0
+b_pause_tv_international,0.0,0.0,0.0,1.0
+Dashboard,0.0,0.0,0.0,1.0
+b_movies_greek1,0.0,0.0,0.0,1.0
+Music Chill Out & Lounge,0.0,0.0,0.0,1.0
+b_movies_film_festival_faves2,0.0,0.0,0.0,1.0
+b_pause_movies_movies_under_2_hours,0.0,338.84,0.0,0.0177
+eX2 MOVIE SUB-CATEGORY DIVIDER 3,0.0,0.0,0.0,1.0
+b_pause_featured_a24_movies,0.0,338.84,0.0,1.0
+b_movies_all_(a-z)4,0.0,0.0,0.0,1.0
+Main Menu Pop-Up Banner,0.0,0.0,0.0,1.0
+b_movies_movies_with_spanish_subtitles3,0.0,0.0,0.0,1.0
+b_pause_movies_greek,0.0,0.0,0.0,1.0
+AdPool eX3 Welcome Screensaver Interstitial 1,0.0,0.0,0.0,1.0
+b_tv_travel4,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_descriptive_audio3,0.0,0.0,0.0,1.0
+b_tv_audio_described_tv1,0.0,0.0,0.0,1.0
+TV Series A-Z,0.0,0.0,0.0,1.0
+b_movies_greek2,0.0,0.0,0.0,1.0
+b_welcome4,0.0,77667.34,0.0,0.355
+b_tv_tv_with_hindi_subtitles3,0.0,0.0,0.0,1.0
+b_tv_tv_with_hindi_subtitles4,0.0,0.0,0.0,1.0
+Movies Portuguesa Movies,0.0,0.0,0.0,1.0
+b_pause_movies_hebrew,0.0,338.84,0.0,1.0
+b_pause_featured_movies_from_hbo_max,0.0,0.0,0.0,1.0
+b_tv_tv_with_spanish_audio_descriptive1,0.0,0.0,0.0,1.0
+Live Text News Subdivider 4,0.0,0.0,0.0,1.0
+b_movies_japanese4,0.0,0.0,0.0,1.0
+Entertainment > Get Inspired (AIR-182),0.0,0.0,0.0,1.0
+Kids Music Synopsis,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_audio_descriptive4,0.0,0.0,0.0,1.0
+eX3 CRs AdPool - Language Video Interstitial,0.0,0.0,0.0,1.0
+b_tv_dutch2,0.0,0.0,0.0,1.0
+b_featured_audiobooks_from_spotify1,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_descriptive_audio2,0.0,0.0,0.0,1.0
+Classics Movies Banner Zone,0.0,0.0,0.0,1.0
+Kids Movies Adventure,0.0,0.0,0.0,1.0
+b_featured_apple_tv_shows3,0.0,0.0,0.0,1.0
+HOMER,0.0,0.0,0.0,1.0
+TV Cidades De Portugal,0.0,0.0,0.0,1.0
+Movies Greatest Movies Ever,0.0,0.0,0.0,1.0
+b_tv_tv_with_greek_descriptive_audio3,0.0,0.0,0.0,1.0
+b_featured_podcasts_from_hbo_max1,0.0,0.0,0.0,1.0
+b_featured_apple_tv+_shows2,0.0,0.0,0.0,1.0
+b_retail_luggage_packing_solutions2,0.0,0.0,0.0,1.0
+Home > About Us Carousel 1,0.0,0.0,0.0,1.0
+Video Sub-category Banner 1,0.0,0.0,0.0,1.0
+b_tv_animated_comedy4,0.0,0.0,0.0,1.0
+aix26_square,0.0,0.0,0.0,1.0
+b_tv_hebrew4,0.0,0.0,0.0,1.0
+b_welcome6,0.0,77667.34,0.0,0.3493
+eX3 TELEVISION MAIN LANDING DISMISSIBLE,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_audio_descriptive3,0.0,0.0,0.0,1.0
+b_featured_hbo_max_podcasts4,0.0,0.0,0.0,1.0
+b_games_mode2,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_descriptive_audio3,0.0,0.0,0.0,1.0
+eX1 - Language Video Interstitial,0.0,0.0,0.0,1.0
+b_movies_movies_with_portuguese_subtitles4,0.0,0.0,0.0,1.0
+Home > Your Trip Carousel 1,0.0,0.0,0.0,1.0
+Audio Landing Screen Banner Rotating Opened 4,0.0,0.0,0.0,1.0
+Destination Banner 2,0.0,0.0,0.0,1.0
+Movies Other Synopsis,0.0,0.0,0.0,1.0
+b_pause_movies_fall_in_love,0.0,0.0,0.0,1.0
+Videos Subdivider 9 Banner,0.0,0.0,0.0,1.0
+b_movies_movies_under_2_hours3,0.0,0.0,0.0,1.0
+b_movies_chinese_(simple)4,0.0,0.0,0.0,1.0
+b_movies_spanish3,0.0,0.0,0.0,1.0
+b_movies_movies_with_japanese_descriptive_audio2,0.0,0.0,0.0,1.0
+Movies By Language Portuguese,0.0,0.0,0.0,1.0
+Earth Day,0.0,0.0,0.0,1.0
+eX2 VIDEOS DIVIDER 3,0.0,0.0,0.0,1.0
+b_audio_audio_mixes2,0.0,0.0,0.0,1.0
+b_pause_tv_veeps:_live_music,0.0,338.84,0.0,1.0
+b_featured_tv_shows_from_hbo_max2,0.0,0.0,0.0,1.0
+b_tv_arabic1,0.0,0.0,0.0,1.0
+b_movies_movies_with_arabic_descriptive_audio4,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_spanish_subtitles,0.0,338.84,0.0,0.0017
+b_tv_tv_with_italian_subtitles2,0.0,0.0,0.0,1.0
+Shopping Synopsis,0.0,0.0,0.0,1.0
+b_movies_movies_with_german_descriptive_audio1,0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(t)_descriptive_audio2,0.0,0.0,0.0,1.0
+b_pause_featured_veeps,0.0,0.0,0.0,1.0
+Audio landing Screen Banner Rotating 2,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_japanese_descriptive_audio,0.0,0.0,0.0,1.0
+b_home2,0.0,41864.84,0.0,0.5336
+b_movies_movies_with_portuguese_descriptive_audio2,0.0,0.0,0.0,1.0
+b_fb_breakfast2,0.0,0.0,0.0,1.0
+b_tv_tv_with_arabic_subtitles3,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_subtitles3,0.0,0.0,0.0,1.0
+All-MENU-TV-TAP 70,0.0,0.0,0.0,1.0
+b_tv_apple_tv+1,0.0,694.43,0.0,0.0002
+Victoria See Video,0.0,0.0,0.0,1.0
+Movies Portugues Movies,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_audio_descriptive3,0.0,0.0,0.0,1.0
+Movies Landing Screen Banner Rotating Opened 4,0.0,0.0,0.0,1.0
+Apple Music,0.0,0.0,0.0,1.0
+Music World Synopsis,0.0,0.0,0.0,1.0
+b_featured_apple_tv+2,0.0,0.0,0.0,1.0
+b_movies_full_throttle3,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_german_descriptive_audio,0.0,0.0,0.0,1.0
+Live Text News Main Pop-Up Banner,0.0,0.0,0.0,1.0
+b_pause_movies_arabic,0.0,338.84,0.0,1.0
+Live TV Interstitial,0.0,0.0,0.0,1.0
+b_pause_featured_spotify_audiobooks,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_descriptive_audio4,0.0,0.0,0.0,1.0
+Documentary Movies Banner Zone,0.0,0.0,0.0,1.0
+eX3 MUSIC SUB-CATEGORY DIVIDER 5,0.0,0.0,0.0,1.0
+Kids Music,0.0,0.0,0.0,1.0
+Veteran's Cinema,0.0,0.0,0.0,1.0
+Music Radio Channels,0.0,0.0,0.0,1.0
+Love is in the Air,0.0,0.0,0.0,1.0
+European Cinema,0.0,0.0,0.0,1.0
+b_tv_portuguese4,0.0,0.0,0.0,1.0
+b_featured_apple_tv4,0.0,0.0,0.0,1.0
+Star Alliance ,0.0,0.0,0.0,1.0
+American Airlines Curated Playlists,0.0,0.0,0.0,1.0
+Movies By Language Spanish Synopsis,0.0,0.0,0.0,1.0
+TV Landing Screen Banner Rotating 4,0.0,0.0,0.0,1.0
+Music Relaxation Synopsis,0.0,0.0,0.0,1.0
+Videos Subdivider 1 Banner,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_audio_descriptive2,0.0,0.0,0.0,1.0
+tvlifestyle,0.0,0.0,0.0,1.0
+Movies By Language Japanese,0.0,0.0,0.0,1.0
+Fun for All,0.0,0.0,0.0,1.0
+b_pause_featured_apple_tv:_movies,0.0,338.84,0.0,0.0105
+b_pause_tv_tv_with_arabic_descriptive_audio,0.0,0.0,0.0,1.0
+Podcast Health and Wellness,0.0,0.0,0.0,1.0
+All TV Banner Zone,0.0,0.0,0.0,1.0
+eX2 Welcome Screensaver Interstitial 1,0.0,0.0,0.0,1.0
+TAP Air Portugal > Menu & Wine List (AIR-182),0.0,0.0,0.0,1.0
+b_pause_featured_spotify_podcasts,0.0,0.0,0.0,1.0
+Sports,0.0,0.0,0.0,1.0
+b_movies_sci-fi_fantasy4,0.0,0.0,0.0,1.0
+b_movies_chinese_(traditional)4,0.0,0.0,0.0,1.0
+Movies By Language German,0.0,0.0,0.0,1.0
+Home Page Carousel 1 (Position 1),0.0,0.0,0.0,1.0
+Movies Featured Banner 1,0.0,0.0,0.0,1.0
+b_retail_luggage_packing_solutions3,0.0,0.0,0.0,1.0
+Games 2D,0.0,0.0,0.0,1.0
+b_movies_movies_with_german_subtitles1,0.0,0.0,0.0,1.0
+b_movies_indie2,0.0,0.0,0.0,1.0
+b_movies_most_watched_movies_20253,0.0,0.0,0.0,1.0
+b_pause_tv_tv_with_chinese_(s)_descriptive_audio,0.0,0.0,0.0,1.0
+Kids TV Adventure,0.0,0.0,0.0,1.0
+b_pause_movies_ireland_on_film,0.0,338.84,0.0,1.0
+b_tv_tv_under_half_hour4,0.0,0.0,0.0,1.0
+b_movies_new_releases4,0.0,47757.21,0.0,1.0
+Action & Thrills,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(t)_audio_descriptive4,0.0,0.0,0.0,1.0
+Audio landing Screen Banner Rotating Opened 2,0.0,0.0,0.0,1.0
+b_featured_movies_from_max1,0.0,0.0,0.0,1.0
+Pride Month Movies Banner,0.0,0.0,0.0,1.0
+Movies By Language German Synopsis,0.0,0.0,0.0,1.0
+b_featured_podcasts_from_max1,0.0,0.0,0.0,1.0
+TV Practice Portuguese,0.0,0.0,0.0,1.0
+b_movies_sports4,0.0,0.0,0.0,1.0
+NEXT - Audio - divider large,0.0,0.0,0.0,1.0
+b_tv_three_perfect_days3,0.0,0.0,0.0,1.0
+b_featured_apple_tv+_shows1,0.0,13611.98,0.0,1.0
+b_featured_spotify_podcasts3,0.0,0.0,0.0,1.0
+Live Text News Subdivider 3,0.0,0.0,0.0,1.0
+b_tv_tv_with_dutch_descriptive_audio2,0.0,0.0,0.0,1.0
+b_tv_tv_with_hebrew_audio_descriptive4,0.0,0.0,0.0,1.0
+Connected Wi-Fi,0.0,0.0,0.0,1.0
+eX3 MAIN MENU - TV POSTER,0.0,0.0,0.0,1.0
+b_reengagement1,0.0,344.77,0.0,0.005
+All-MENU-TV-SPORT TV,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_hindi_descriptive_audio,0.0,0.0,0.0,1.0
+NEXT - Welcome Screen Video Interstitial,0.0,0.0,0.0,1.0
+Movies Landing Screen Banner Rotating 3,0.0,0.0,0.0,1.0
+Movies with Audio Description,0.0,0.0,0.0,1.0
+b_pause_tv_'tis_the_season,0.0,342.55,0.0,1.0
+Horror Movies Banner,0.0,0.0,0.0,1.0
+Destino Toronto,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_subtitles2,0.0,0.0,0.0,1.0
+World Audio Banner Zone,0.0,0.0,0.0,1.0
+TV Travel,0.0,0.0,0.0,1.0
+b_featured_hbo_max_movies4,0.0,0.0,0.0,1.0
+Movies - Disney,0.0,0.0,0.0,1.0
+All-MENU-TV-PORTUGAL STOPOVER,0.0,0.0,0.0,1.0
+Screensaver5,0.0,0.0,0.0,1.0
+b_tv_tv_with_korean_subtitles4,0.0,0.0,0.0,1.0
+TV Out Favorites,0.0,0.0,0.0,1.0
+Movies - BAFTA,0.0,0.0,0.0,1.0
+b_pause_tv_food_travel,0.0,338.84,0.0,0.0063
+Kids TV Cartoon,0.0,0.0,0.0,1.0
+b_movies_movies_with_german_descriptive_audio2,0.0,0.0,0.0,1.0
+About Us Banner 2,0.0,0.0,0.0,1.0
+TV Music Arts,0.0,0.0,0.0,1.0
+b_movies_pixel_to_picture1,0.0,0.0,0.0,1.0
+Cruise Control,0.0,0.0,0.0,1.0
+b_tv_tv_with_portuguese_descriptive_audio1,0.0,0.0,0.0,1.0
+  Movies New Releases Large Poster,0.0,0.0,0.0,1.0
+b_retail_travel_accessories1,0.0,0.0,0.0,1.0
+eX1 Kinai Welcome Screensaver Interstitial 5,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_dutch_descriptive_audio,0.0,0.0,0.0,1.0
+b_retail_tech_travel_gadgets3,0.0,0.0,0.0,1.0
+b_tv_tv_with_chinese_(s)_audio_descriptive1,0.0,0.0,0.0,1.0
+Movies Action,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_korean_descriptive_audio,0.0,0.0,0.0,1.0
+b_fb_snacks2,0.0,0.0,0.0,1.0
+b_pause_movies_romance,0.0,338.84,0.0,0.0126
+b_pause_movies_chinese_(simple),0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_french_descriptive_audio,0.0,0.0,0.0,1.0
+b_movies_horror3,0.0,0.0,0.0,1.0
+b_pause_movies_chills_thrills,0.0,0.0,0.0,1.0
+b_pause_tv_box_set,0.0,0.0,0.0,1.0
+b_movies_italian3,0.0,0.0,0.0,1.0
+AdPool eX1/eX3 High Capacity Welcome Screensaver Interstitial 3,0.0,0.0,0.0,1.0
+eX2 TELEVISION_SUB-CATEGORY POSTER 1,0.0,0.0,0.0,1.0
+b_movies_trilogy_spotlight2,0.0,2318.23,0.0,1.0
+b_tv_tv_with_french_audio_descriptive2,0.0,0.0,0.0,1.0
+b_featured_movies_from_hbo_max2,0.0,0.0,0.0,1.0
+b_movies_movies_with_hebrew_descriptive_audio4,0.0,0.0,0.0,1.0
+Weather Synopsis,0.0,0.0,0.0,1.0
+b_pause_movies_german,0.0,338.84,0.0,0.0008
+  TV Comedy & Drama Small Poster ,0.0,0.0,0.0,1.0
+b_movies_comedy4,0.0,0.0,0.0,1.0
+eX3 MOVIE SUB-CATEGORY DIVIDER 1 ,0.0,0.0,0.0,1.0
+TAP Air Portugal > Surveys (AIR-182),0.0,0.0,0.0,1.0
+b_movies_movies_with_chinese_(t)_descriptive_audio1,0.0,0.0,0.0,1.0
+eX3 MUSIC SUB-CATEGORY POSTER 2,0.0,0.0,0.0,1.0
+AdPool eX1/eX3 High Capacity Welcome Screensaver Interstitial 4,0.0,0.0,0.0,1.0
+b_notification_center2,0.0,338.84,0.0,1.0
+IFE VPA Video,0.0,0.0,0.0,1.0
+b_tv_drama4,0.0,0.0,0.0,1.0
+b_pause_top_secret:_spy_collection,0.0,0.0,0.0,1.0
+NBC TV,0.0,0.0,0.0,1.0
+Main Menu Subdivider 1 Banner,0.0,0.0,0.0,1.0
+b_movies_movies_with_arabic_subtitles3,0.0,0.0,0.0,1.0
+Disability Awareness Month,0.0,0.0,0.0,1.0
+Shark Week,0.0,0.0,0.0,1.0
+b_movies_movies_with_spanish_descriptive_audio4,0.0,0.0,0.0,1.0
+Audiobook Shorts,0.0,0.0,0.0,1.0
+Music Pop ,0.0,0.0,0.0,1.0
+b_movies_indie1,0.0,0.0,0.0,1.0
+  Movies New Releases Small Poster ,0.0,0.0,0.0,1.0
+Music Others,0.0,0.0,0.0,1.0
+b_pause_movies_perfect_plane_movies,0.0,384.51,0.0,0.0327
+b_tv_tv_with_chinese_(t)_subtitles1,0.0,0.0,0.0,1.0
+Hungarian Movies Banner Zone,0.0,0.0,0.0,1.0
+Crushworthy: Keanu Reeves,0.0,0.0,0.0,1.0
+b_audio_playlists4,0.0,0.0,0.0,1.0
+IFE Welcome Video,0.0,0.0,0.0,1.0
+b_pause_podcasts_from_spotify,0.0,0.0,0.0,1.0
+b_movies_movies_with_portuguese_descriptive_audio1,0.0,0.0,0.0,1.0
+b_tv_tv_with_german_subtitles1,0.0,0.0,0.0,1.0
+b_audio_audio_mixes1,0.0,8587.86,0.0,1.0
+Eclectic,0.0,0.0,0.0,1.0
+b_pause_movies_movies_with_chinese_(t)_descriptive_audio,0.0,0.0,0.0,1.0
+b_movies_movies_with_hebrew_subtitles3,0.0,0.0,0.0,1.0
+IFE Seatback Welcome Screensaver Interstitial 5,0.0,0.0,0.0,1.0
+b_retail_tech_travel_gadgets4,0.0,0.0,0.0,1.0
+Movies Latest Releases,0.0,0.0,0.0,1.0
+Connecting Gate Synopsis,0.0,0.0,0.0,1.0
+b_featured_playlists_from_spotify1,0.0,15542.59,0.0,1.0
+b_featured_max2,0.0,1307.13,0.0,1.0
+b_pause_tv_italian,0.0,0.0,0.0,1.0
+b_featured_concerts_from_veeps1,0.0,2318.23,0.0,1.0
